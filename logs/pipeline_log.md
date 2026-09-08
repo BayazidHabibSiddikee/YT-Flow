@@ -86,6 +86,31 @@
 
 ---
 
+## Body Swap Pipeline
+
+**Repo**: `~/Documents/Body_Swap_Pipeline/`
+**GitHub**: `https://github.com/BayazidHabibSiddikee/Body_Swap_Pipeline`
+
+### Capability: Face + Body Swap
+| Step | Tool | Models |
+|------|------|--------|
+| 1. Face Swap | InsightFace Reactor | `inswapper_128.onnx` (529MB) + `buffalo_l` (326MB) |
+| 2. Body Swap | MediaPipe Pose + Affine Warping | MediaPipe (auto), DensePose (opt), VITON-HD (opt) |
+
+### Usage
+```bash
+# Face + Body swap (full)
+python3 ~/Documents/Body_Swap_Pipeline/scripts/full_swap.py \
+  --source ~/Documents/FaceSwap/references/person.jpg \
+  --target target.jpg --output output/result.jpg
+
+# Body swap only
+python3 ~/Documents/Body_Swap_Pipeline/scripts/body_swap.py \
+  --source ref.jpg --target target.jpg --output output/body_result.jpg
+```
+
+---
+
 ## Notes
 
 - **Never delete `face-swap/`** — models are expensive to recover.
