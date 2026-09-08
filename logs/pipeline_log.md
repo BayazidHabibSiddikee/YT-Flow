@@ -48,24 +48,24 @@
 
 ## Face-Swap Models
 
-**Status: ⚠️ MODELS LOST — Need Recovery**
+**Status: ✅ RECOVERED — Models found and copied**
 
-### Last Known Models
-| Model | Type | Path | Status |
-|-------|------|------|--------|
-| inswapper_128.onnx | ONNX (InsightFace) | `face-swap/models/` | ❌ Missing |
-| simswap_224.onnx | PyTorch → ONNX | `face-swap/models/` | ❌ Missing |
-| buffalo_l | Detection | `face-swap/models/` | ❌ Missing |
+### Recovered Models
+| Model | Original Path | Size | Status |
+|-------|---------------|------|--------|
+| inswapper_128.onnx | `~/.insightface/models/` | 529 MB | ✅ Copied to `~/Documents/FaceSwap/models/` |
+| buffalo_l | `~/.insightface/models/` | 326 MB | ✅ Copied to `~/Documents/FaceSwap/models/` |
+| det_10g.onnx | `~/.insightface/models/buffalo_l/` | — | ✅ Included |
+| 1k3d68.onnx | `~/.insightface/models/buffalo_l/` | — | ✅ Included |
+| w600k_r50.onnx | `~/.insightface/models/buffalo_l/` | — | ✅ Included |
+| 2d106det.onnx | `~/.insightface/models/buffalo_l/` | — | ✅ Included |
+| genderage.onnx | `~/.insightface/models/buffalo_l/` | — | ✅ Included |
 
 ### Recovery Checklist
-- [ ] Search local drives for `.onnx`, `.pth`, `.pt` files
-- [ ] Check browser downloads history
-- [ ] Search for "inswapper", "simswap", "insightface", "roop" in Downloads
-- [ ] If found → copy to `face-swap/models/`
-- [ ] If not found → re-download:
-  - inswapper_128.onnx: `https://github.com/facefusion/facefusion-assets/releases`
-  - simswap: `https://github.com/neuralchen/SimSwap`
-  - buffalo_l: `pip install insightface` then copy from `~/.insightface/`
+- [x] Search local drives for `.onnx`, `.pth`, `.pt` files
+- [x] Found in `~/.insightface/models/`
+- [x] Copy to `face-swap/models/` → Done at `~/Documents/FaceSwap/models/`
+- [ ] If not found → re-download (no longer needed)
 
 ---
 
