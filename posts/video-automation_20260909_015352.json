@@ -1,0 +1,22 @@
+{
+  "id": "POST-20260909_015352",
+  "topic": "video-automation",
+  "title": "How I Automated My Entire Video Pipeline",
+  "content": "\ud83c\udfac How I Automated My Entire Video Pipeline\n\nI went from 10 hours of manual editing to fully automated video production. Here's the system:\n\n\ud83d\udcf9 Step 1: Video Generation\n- AI generates short clips (5-10 seconds) from text prompts\n- Tools: HuggingFace models, custom pipelines\n- Output: Raw footage ready for editing\n\n\u2702\ufe0f Step 2: Video Processing\n- FFmpeg extends clips to 22+ seconds (YouTube minimum)\n- Loops footage smoothly with stream copy (no quality loss)\n- Adds styled subtitles burned into the video\n- Font: Arial Black, 32px, white with black outline\n\n\ud83d\udcdd Step 3: Subtitle Generation\n- Whisper AI transcribes any speech\n- Subtitles are styled and burned in (not optional overlay)\n- Timing is auto-synced to speech patterns\n\n\ud83c\udfa8 Step 4: Post-Processing\n- Color correction, edge smoothing\n- Thumbnail generation\n- Metadata tagging\n\n\u23f1\ufe0f Time Saved:\n- Manual: 2-3 hours per video\n- Automated: 5 minutes per video\n- 90% reduction in production time\n\nThe key insight: automate the repetitive, keep the creative.\n\nI still choose the topics, write the hooks, and approve the final cut. AI handles the grind.\n\n#videoautomation #ffmpeg #AI #contentcreator #buildinpublic",
+  "platforms": [
+    "twitter",
+    "facebook",
+    "instagram",
+    "youtube_community"
+  ],
+  "hashtags": [
+    "#videoautomation",
+    "#ffmpeg",
+    "#AI",
+    "#contentcreator",
+    "#buildinpublic"
+  ],
+  "status": "generated",
+  "created_at": "2026-09-09T01:53:52.539090",
+  "filename": "video-automation_20260909_015352.json"
+}

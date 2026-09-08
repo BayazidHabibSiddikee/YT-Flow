@@ -5,7 +5,7 @@
       "video": "videos/edited/video1_final.mp4",
       "platform": "youtube",
       "scheduled_time": "TBD",
-      "title": "BUILD YOUR EMPIRE — Motivation",
+      "title": "BUILD YOUR EMPIRE \u2014 Motivation",
       "description": "Every rep. Every set. Every day. Discipline beats motivation. #motivation #gym #business #grindset",
       "status": "scheduled",
       "created_at": "2026-09-08T23:05:00"
@@ -15,10 +15,20 @@
       "video": "videos/edited/video2_final.mp4",
       "platform": "youtube",
       "scheduled_time": "TBD",
-      "title": "IRON NEVER LIES — Gym Motivation",
+      "title": "IRON NEVER LIES \u2014 Gym Motivation",
       "description": "Pain is weakness leaving the body. Train insane or remain the same. #gym #fitness #motivation #iron",
       "status": "scheduled",
       "created_at": "2026-09-08T23:05:00"
+    },
+    {
+      "id": "RELEASE-003",
+      "video": "videos/edited/deku_final.mp4",
+      "platform": "youtube",
+      "scheduled_time": "TBD",
+      "title": "PLUS ULTRA \u2014 Deku Gym Motivation",
+      "description": "I want to be the greatest hero! Push beyond your limits! #deku #mha #gym #motivation #plusultra",
+      "status": "scheduled",
+      "created_at": "2026-09-09T00:30:00"
     }
   ],
   "released": []

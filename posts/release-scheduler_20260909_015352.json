@@ -1,0 +1,22 @@
+{
+  "id": "POST-20260909_015352",
+  "topic": "release-scheduler",
+  "title": "How I Schedule Videos Across Platforms Automatically",
+  "content": "\ud83d\udcc5 How I Schedule Videos Across Platforms Automatically\n\nPosting consistently is the hardest part of content creation. So I built a scheduler.\n\n\ud83d\uddc2\ufe0f The Queue System:\nEvery video goes into a release queue with:\n- Video file path\n- Target platform (YouTube, TikTok, Instagram, Facebook)\n- Scheduled date and time\n- Title, description, hashtags\n- Status: scheduled \u2192 released\n\n\u23f0 The Automation:\n- Systemd timers check the queue every hour\n- When a video's time comes, it's automatically published\n- Every action is logged with timestamps\n- Failed releases are retried\n\n\ud83d\udcca The Tracking:\n- Pipeline log tracks every operation\n- Release queue tracks every video\n- Cron execution log tracks every automation run\n- Posts log tracks every social media post\n\n\ud83d\udd27 The Stack:\n- Python for logic\n- Systemd timers for scheduling (not cron \u2014 more reliable)\n- JSON files for queue storage (simple, human-readable)\n- FFmpeg for video processing\n\n\ud83d\udcc8 Current Queue:\n- 3 videos ready for release\n- Platforms: YouTube, TikTok, Instagram\n- Schedule: TBD (setting up optimal posting times)\n\nThe goal: upload once, publish everywhere, on time, every time.\n\n#automation #contentcreator #socialmedia #scheduling #buildinpublic",
+  "platforms": [
+    "twitter",
+    "facebook",
+    "instagram",
+    "youtube_community"
+  ],
+  "hashtags": [
+    "#automation",
+    "#contentcreator",
+    "#socialmedia",
+    "#scheduling",
+    "#buildinpublic"
+  ],
+  "status": "generated",
+  "created_at": "2026-09-09T01:53:52.539129",
+  "filename": "release-scheduler_20260909_015352.json"
+}

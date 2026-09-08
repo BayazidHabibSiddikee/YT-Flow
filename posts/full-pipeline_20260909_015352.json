@@ -1,0 +1,22 @@
+{
+  "id": "POST-20260909_015352",
+  "topic": "full-pipeline",
+  "title": "The Full Pipeline: From Idea to Published Video",
+  "content": "\ud83d\ude80 The Full Pipeline: From Idea to Published Video\n\nHere's the entire system \u2014 start to finish:\n\n1\ufe0f\u20e3 IDEA\nI choose a topic based on audience demand. Gym motivation, business wisdom, anime crossovers.\n\n2\ufe0f\u20e3 GENERATION\nAI generates short video clips. Sometimes I use existing footage. Sometimes I create from scratch.\n\n3\ufe0f\u20e3 EDITING\n- FFmpeg extends to 22+ seconds\n- Subtitles are generated and burned in\n- Styled with Arial Black, white on black outline\n- No generic CTAs \u2014 only business/gym/motivation text\n\n4\ufe0f\u20e3 FACE/BODY SWAP (Optional)\n- Face swap: inswapper_128.onnx + buffalo_l\n- Body swap: MediaPipe Pose + affine warping\n- Combined: face first, then body\n\n5\ufe0f\u20e3 QUEUE\nEvery finished video enters the release queue with platform, time, title, description.\n\n6\ufe0f\u20e3 SCHEDULE\nSystemd timers check the queue hourly. When it's time, the video is published.\n\n7\ufe0f\u20e3 PUBLISH\nPosted to YouTube, TikTok, Instagram, Facebook \u2014 simultaneously or staggered.\n\n8\ufe0f\u20e3 TRACK\nEvery action is logged. Every post is tracked. Every video's performance is recorded.\n\n\ud83d\udcca The Numbers:\n- 3 videos in queue\n- 4 platforms targeted\n- 8 pipeline steps\n- 1 human (me) overseeing it all\n\nThis is how you scale content creation without burning out.\n\n#buildinpublic #contentcreator #AI #automation #pipeline",
+  "platforms": [
+    "twitter",
+    "facebook",
+    "instagram",
+    "youtube_community"
+  ],
+  "hashtags": [
+    "#buildinpublic",
+    "#contentcreator",
+    "#AI",
+    "#automation",
+    "#pipeline"
+  ],
+  "status": "generated",
+  "created_at": "2026-09-09T01:53:52.539167",
+  "filename": "full-pipeline_20260909_015352.json"
+}

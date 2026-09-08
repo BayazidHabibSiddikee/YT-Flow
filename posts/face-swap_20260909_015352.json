@@ -1,0 +1,22 @@
+{
+  "id": "POST-20260909_015352",
+  "topic": "face-swap",
+  "title": "How Face Swapping Actually Works",
+  "content": "\ud83e\udde0 How Face Swapping Actually Works\n\nI built a face-swap pipeline using AI. Here's exactly how it works:\n\n1\ufe0f\u20e3 Face Detection\nFirst, the AI finds every face in both images using a model called buffalo_l. It maps 68 key points on each face \u2014 eyes, nose, jawline, everything.\n\n2\ufe0f\u20e3 Face Alignment\nThe source face is rotated, scaled, and warped to match the target face's angle and position. Even if one person is looking left and the other right, the AI adjusts.\n\n3\ufe0f\u20e3 Feature Extraction\nA neural network called inswapper_128 analyzes the source face \u2014 skin tone, lighting, expression, even the way light hits the cheekbones. It creates a \"face embedding\" \u2014 a mathematical representation of everything that makes that face unique.\n\n4\ufe0f\u20e3 Face Generation\nThe AI replaces the target face with the source face while preserving the target's original lighting, background, and body. It's not a copy-paste \u2014 it's a full regeneration.\n\n5\ufe0f\u20e3 Blending\nThe edges are smoothed, colors are matched, and the final result is composited. If done right, you can't tell it was swapped.\n\n\ud83d\udd27 My Setup:\n- Model: inswapper_128.onnx (529MB)\n- Detection: buffalo_l (326MB)\n- Runtime: CPU (GPU is faster but not required)\n- Time per image: ~5-15 seconds\n\nThe models are free. The code is open source. The only cost is compute.\n\nI'm sharing this because understanding the tech demystifies it. AI isn't magic \u2014 it's math. And once you understand the math, you can build anything.\n\nWhat do you want me to break down next?\n\n#faceswap #AI #machinelearning #tech #buildinpublic",
+  "platforms": [
+    "twitter",
+    "facebook",
+    "instagram",
+    "youtube_community"
+  ],
+  "hashtags": [
+    "#faceswap",
+    "#AI",
+    "#machinelearning",
+    "#tech",
+    "#buildinpublic"
+  ],
+  "status": "generated",
+  "created_at": "2026-09-09T01:53:52.538758",
+  "filename": "face-swap_20260909_015352.json"
+}

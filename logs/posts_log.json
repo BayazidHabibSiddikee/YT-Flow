@@ -1,0 +1,28 @@
+{
+  "description": "YT-Flow Posts Log — tracks all written posts, platforms, timestamps, and performance",
+  "posts": [],
+  "published": [],
+  "stats": {
+    "total_generated": 0,
+    "total_published": 0,
+    "by_platform": {
+      "twitter": 0,
+      "facebook": 0,
+      "instagram": 0,
+      "youtube": 0
+    },
+    "by_topic": {
+      "face-swap": 0,
+      "body-swap": 0,
+      "video-automation": 0,
+      "release-scheduler": 0,
+      "full-pipeline": 0
+    }
+  },
+  "schedule": {
+    "twitter": "3x daily (8am, 12pm, 6pm)",
+    "facebook": "1x daily (10am)",
+    "instagram": "1x daily (5pm)",
+    "youtube_community": "2x weekly (Tue, Thu)"
+  }
+}

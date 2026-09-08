@@ -1,0 +1,22 @@
+{
+  "id": "POST-20260909_015352",
+  "topic": "body-swap",
+  "title": "How Body Swapping Works (Full Pipeline)",
+  "content": "\ud83c\udfc3 How Body Swapping Works \u2014 Full Pipeline\n\nFace swapping is common now. Body swapping is the next level. Here's how I built it:\n\n1\ufe0f\u20e3 Pose Detection\nMediaPipe Pose detects 33 body keypoints \u2014 shoulders, elbows, wrists, hips, knees, ankles. It creates a \"stick figure\" skeleton of the person in the target video.\n\n2\ufe0f\u20e3 Body Segmentation\nThe AI isolates the body from the background using skin color detection and contour analysis. It creates a mask \u2014 white where the body is, black everywhere else.\n\n3\ufe0f\u20e3 Body Warping\nUsing affine transformation, the source body is stretched, rotated, and aligned to match the target's pose. If the target is raising their right arm, the source's right arm is raised to match.\n\n4\ufe0f\u20e3 Texture Transfer\nThe source person's appearance \u2014 skin, clothing, muscle definition \u2014 is transferred onto the warped body shape.\n\n5\ufe0f\u20e3 Blending\nThe warped source is composited onto the target background. Colors are matched, edges are smoothed, and shadows are added for realism.\n\n\ud83d\udd27 My Setup:\n- Pose: MediaPipe Pose (auto-downloaded)\n- Segmentation: HSV skin detection + contour analysis\n- Warping: Affine transform (3-point alignment)\n- Blending: Alpha compositing with mask\n\n\u26a0\ufe0f Limitations:\n- Works best on static images or short clips\n- Source and target should have similar body types\n- GPU recommended for video (CPU works for images)\n\nBody swap is much heavier than face swap. But the results are worth it.\n\nNext: How I automate the entire video pipeline.\n\n#bodyswap #AI #mediapipe #computervision #buildinpublic",
+  "platforms": [
+    "twitter",
+    "facebook",
+    "instagram",
+    "youtube_community"
+  ],
+  "hashtags": [
+    "#bodyswap",
+    "#AI",
+    "#mediapipe",
+    "#computervision",
+    "#buildinpublic"
+  ],
+  "status": "generated",
+  "created_at": "2026-09-09T01:53:52.539031",
+  "filename": "body-swap_20260909_015352.json"
+}
