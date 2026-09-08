@@ -1,0 +1,28 @@
+# Sensitive data
+config/platforms.yml
+config/credentials.json
+*.env
+
+# Large binary files (unless intentionally tracked)
+*.mp4
+!videos/raw/.gitkeep
+!videos/edited/.gitkeep
+
+# Face-swap models (large, tracked via LFS or external)
+face-swap/models/*.onnx
+face-swap/models/*.pth
+face-swap/models/*.pt
+face-swap/models/buffalo_l/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+/tmp/
+*.tmp

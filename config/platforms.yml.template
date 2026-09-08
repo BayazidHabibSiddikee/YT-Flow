@@ -1,0 +1,26 @@
+# Platform Configuration
+# Add API keys and credentials here (DO NOT COMMIT)
+
+youtube:
+  api_key: ""
+  client_secrets: "config/youtube_client_secret.json"
+  channel_id: ""
+
+tiktok:
+  access_token: ""
+  open_id: ""
+
+instagram:
+  access_token: ""
+  user_id: ""
+
+# Default release settings
+defaults:
+  category: "Entertainment"
+  privacy: "public"
+  tags:
+    - motivation
+    - gym
+    - fitness
+    - business
+    - grindset
