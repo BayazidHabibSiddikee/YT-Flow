@@ -1,0 +1,45 @@
+{
+  "run_id": "izuku_midoriya_20260908_055951",
+  "topic": "discipline over motivation",
+  "niche": "izuku_midoriya",
+  "stages": {
+    "script": {
+      "text": "When I was twenty\u2011four, I finally cracked the \u201cmotivation myth.\u201d I\u2019d spent my early twenties chasing the next rush\u2014new product launches, hype\u2011driven marketing blitzes, adrenaline\u2011fueled networking events. Every time the spark faded, I felt like a ship without wind, waiting for inspiration to arrive. The moment I stopped looking for motivation and started asking, \u201cWhat must I do regardless of how I feel?\u201d was the moment my business stopped wobbling on a whim and began moving on a rail of disciplined action. Motivation is a guest; discipline is the landlord who keeps the lights on.\n\nThe first rule I learned, echoing the ancient trainers of both body and mind, is Consistency Over Intensity. I stopped loading my schedule with marathon work sessions that lasted three days and then collapsed. Instead, I built a habit of showing up at 5\u202fa.m. every single morning\u2014writing a one\u2011page strategic note, reviewing cash flow, and completing a compound movement that reminded my body and brain they were under my command. Small, deliberate increments compounded into a competitive advantage that no market cycle could erode. Discipline in the fundamentals bought me freedom to pivot, innovate, and seize opportunities without the paralysis of \u201cdo I feel like it?\u201d\n\nStoicism taught me to Premeditate Malorum\u2014to visualize the worst\u2011case scenario, not to frighten myself, but to strip fear of its power. I imagined a product flop, a funding shortfall, even personal burnout. By confronting those possibilities on paper, I could design safeguards\u2014diversified revenue streams, a reserve cash buffer, a recovery routine of sleep and nutrition. The mind believes what it rehearses; when the mind rehearses resilience, the body follows. I also learned to protect my attention like gold, turning off every notification that does not serve the day's primary objective. When distraction disappears, focus becomes a lever that moves mountains.\n\nLeadership, as Extreme Ownership insists, is nothing more than owning the fundamentals of every team member\u2019s environment. I stopped blaming market volatility and started asking, \u201cWhat did I fail to teach or model today?\u201d I instituted an \u201caccountability mirror\u201d at the end of each sprint: every leader writes three things they did well, three they missed, and a concrete plan to close the gap. The habit of brutal honesty eliminates ego, aligns the crew with the mission, and creates a culture where discipline is contagious. When the crew sees their captain rowing relentlessly through the storm, they stop waiting for motivation and start rowing with him.\n\nActionable step: right now, write down one habit you will perform at the same time, every day, for the next 30\u202fdays\u2014whether it\u2019s a five\u2011minute strategic review, a set of squats, or a quiet minute of negative visualization. Place that note on your bathroom mirror, stare at it each morning, and hold yourself accountable. When the urge to skip arises, remember the 40\u202f% Rule: you\u2019re only 40\u202f% done. Push past the hesitation, and you\u2019ll discover the freedom that disciplined consistency delivers.",
+      "chars": 3083,
+      "words": 491,
+      "rag_sources": [
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md"
+      ]
+    },
+    "director": {
+      "verdict": "APPROVE",
+      "score": 7,
+      "hook": "A compelling hook about discipline over motivation",
+      "angle": "Focus on practical wisdom with character voice",
+      "images": [
+        "Scene 1: discipline over motivation",
+        "Scene 2: discipline over motivation context",
+        "Scene 3: discipline over motivation action"
+      ],
+      "style": "cinematic, dramatic lighting, 4k quality",
+      "title_suggestion": "How to Master Discipline Over Motivation | The Strategic Approach",
+      "tags": [
+        "discipline over motivation",
+        "motivation",
+        "self-improvement",
+        "wisdom"
+      ],
+      "reasoning": "Auto-approved due to LLM unavailability. Topic: discipline over motivation",
+      "changes_if_revise": ""
+    },
+    "mpt_video": {
+      "status": "timeout",
+      "error": "MPT generation timed out (10min)"
+    }
+  },
+  "status": "mpt_failed"
+}

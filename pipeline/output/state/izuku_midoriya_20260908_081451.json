@@ -1,0 +1,161 @@
+{
+  "run_id": "izuku_midoriya_20260908_081451",
+  "topic": "the strength of silence",
+  "niche": "izuku_midoriya",
+  "stages": {
+    "script": {
+      "text": "Silence shatters noise; in a single breath, you claim the battlefield of distraction and win before the fight begins, silently within yourself.\n\nGuard attention like gold, eliminate every peripheral lure, and practice one\u2011task presence daily until the mind becomes an impenetrable\n\nWhen negotiating, mirror the opponent\u2019s view, silence anger, and answer from calm certainty rather than desperation\u2019s trembling echo, maintaining a steady mind.\n\nStay aware, keep distance, de\u2011escalate, then sprint; a pen becomes shield, fear fuels focus, and survival outruns victory when acted instinctively, precisely.\n\nEach dawn, breathe deeply, recall past triumphs, push beyond 40% fatigue, and let silence direct today\u2019s decisive action with purposeful intent.",
+      "chars": 748,
+      "words": 106,
+      "rag_sources": [
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/fighting_art.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/bhagavad_gita_wisdom.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/universal_wisdom.md"
+      ]
+    },
+    "director": {
+      "verdict": "APPROVE",
+      "score": 3,
+      "hook": "About the strength of silence",
+      "angle": "Direct and practical",
+      "images": [
+        "Scene 1: the strength of silence",
+        "Scene 2: the strength of silence"
+      ],
+      "style": "clean, professional",
+      "title_suggestion": "The Strength Of Silence Explained",
+      "tags": [
+        "the strength of silence",
+        "motivation"
+      ],
+      "reasoning": "Auto-approved (LLM error: RateLimitError). Topic: the strength of silence",
+      "changes_if_revise": ""
+    },
+    "mpt_video": {
+      "status": "success",
+      "task_id": "babdbc78-34b4-41fe-9aba-1fb02021765a",
+      "result": {
+        "videos": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/babdbc78-34b4-41fe-9aba-1fb02021765a/final-1.mp4"
+        ],
+        "combined_videos": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/babdbc78-34b4-41fe-9aba-1fb02021765a/combined-1.mp4"
+        ],
+        "script": "Silence shatters noise; in a single breath, you claim the battlefield of distraction and win before the fight begins, silently within yourself.\n\nGuard attention like gold, eliminate every peripheral lure, and practice one\u2011task presence daily until the mind becomes an impenetrable\n\nWhen negotiating, mirror the opponent\u2019s view, silence anger, and answer from calm certainty rather than desperation\u2019s trembling echo, maintaining a steady mind.\n\nStay aware, keep distance, de\u2011escalate, then sprint; a pen becomes shield, fear fuels focus, and survival outruns victory when acted instinctively, precisely.\n\nEach dawn, breathe deeply, recall past triumphs, push beyond 40% fatigue, and let silence direct today\u2019s decisive action with purposeful intent.",
+        "terms": [
+          "silence focus",
+          "silence meditation",
+          "silence breathing",
+          "silence concentration",
+          "silence negotiation"
+        ],
+        "audio_file": "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/babdbc78-34b4-41fe-9aba-1fb02021765a/audio.mp3",
+        "audio_duration": 49,
+        "subtitle_path": "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/babdbc78-34b4-41fe-9aba-1fb02021765a/subtitle.srt",
+        "materials": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-7076ec94f328fdcad135f94fcc23d5d9.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-69feddda863f2255927334873278b865.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-d77263473d5afa57a0cb6c96e759b4c7.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-6d59ea274f2121ccaaaa8f068d23d3b6.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-7af3cb94c4a25e90bf2bdf3d090404da.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-7ef058ddc8ea2db7eab91c87fd14ac09.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-bbc209eaecd40955cdc15f29d4bcc2ad.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-a9ee7b1f8f9459d545f658a9da8506f0.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-63a537d1027aacbe822a215ed02ac5c1.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-bb6571792a2ef8d51211a333211ebf88.mp4"
+        ],
+        "cross_post_state": null,
+        "cross_post_results": null,
+        "cross_post_error": null,
+        "cross_post_owner": null,
+        "warnings": null
+      }
+    },
+    "video": {
+      "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_081451_mpt.mp4",
+      "mpt_task_id": "babdbc78-34b4-41fe-9aba-1fb02021765a",
+      "video_size": 22400815,
+      "duration": 49.8
+    },
+    "quality_check": {
+      "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_081451_mpt.mp4",
+      "checks": {
+        "file_size": {
+          "value": 22400815,
+          "unit": "bytes",
+          "pass": true
+        },
+        "duration": {
+          "value": 49.8,
+          "unit": "seconds",
+          "pass": true
+        },
+        "resolution": {
+          "value": "1080x1920",
+          "pass": true
+        },
+        "video_bitrate": {
+          "value": 3395728,
+          "unit": "bps",
+          "pass": true
+        },
+        "audio_stream": {
+          "pass": true
+        }
+      },
+      "passed": true,
+      "errors": [],
+      "duration": 49.8,
+      "file_size_mb": 21.36
+    },
+    "upload_meta": {
+      "youtube": {
+        "title": "How to Master The Strength Of Silence | Strategy & Wisdom",
+        "description": "Deep insights on 'the strength of silence' from a wealthy polymath perspective.\n\nTopics covered:\n- Key strategies for the strength of silence\n- Real-world applications\n- Actionable advice you can use today\n\n#Motivation #SelfImprovement #Wisdom #thestrengthofsilence",
+        "tags": [
+          "the strength of silence",
+          "motivation",
+          "self improvement",
+          "business",
+          "wisdom",
+          "success"
+        ],
+        "category": "Education",
+        "thumbnail_text": [
+          "The",
+          "silence"
+        ]
+      },
+      "social": {
+        "instagram": "You don't need luck for the strength of silence. You need strategy. Here's what I've learned after decades of observation...",
+        "twitter": [
+          "The secret to mastering the strength of silence? Most people overcomplicate it.",
+          "Here's the simple truth: the strength of silence isn't about talent \u2014 it's about consistency.",
+          "Stop making excuses. Start executing. #Motivation"
+        ],
+        "tiktok": "POV: You finally understand the strength of silence \ud83e\udde0\u26a1\ufe0f #motivation #wisdom #growth",
+        "linkedin": "After years of building businesses and studying human nature, here's my take on the strength of silence."
+      },
+      "seo": {
+        "primary_keyword": "the strength of silence",
+        "secondary_keywords": [
+          "the strength of silence motivation",
+          "self improvement",
+          "wisdom"
+        ],
+        "best_time": "6-9 AM or 7-10 PM local time"
+      }
+    },
+    "upload": {
+      "status": "uploaded",
+      "video_id": "eE7jbwr_W0M",
+      "url": "https://youtu.be/eE7jbwr_W0M"
+    },
+    "captions_path": "output/captions/captions_20260908_082125.md",
+    "social_posts": "output/posts/posts_20260908_082128.md"
+  },
+  "status": "complete",
+  "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_081451_mpt.mp4"
+}

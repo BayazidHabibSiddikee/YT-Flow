@@ -1,0 +1,45 @@
+{
+  "run_id": "izuku_midoriya_20260908_052057",
+  "topic": "discipline over motivation",
+  "niche": "izuku_midoriya",
+  "stages": {
+    "script": {
+      "text": "When I was twenty\u2011four, still fresh from the university labs and barely scratching the surface of my first venture, I fell into the same trap that haunts most high\u2011potential people: I waited for motivation to appear like a flash of lightning before I acted. I\u2019d sit at my desk, scroll through inspirational quotes, and convince myself that tomorrow would be the day I finally launched the product that would change the industry. The truth, I learned the hard way, is that motivation is a fickle guest; it arrives when it feels like it, and it departs just as quickly. Discipline, however, is a contract you sign with yourself each morning, and it never reneges. By treating the fundamentals\u2014early wake\u2011ups, a structured agenda, a clean inbox\u2014as non\u2011negotiable, I unlocked the freedom to move on any opportunity without hesitation. \u201cDiscipline equals freedom\u201d stopped being a slogan; it became the architecture of my days.\n\nThe first concrete shift was adopting the \u201caccountability mirror\u201d from Goggens, but I rewrote it in a corporate language: my daily board meeting is with myself. Each sunrise I stare at my reflection and ask, \u201cWhat did I promise yesterday, and what did I actually deliver?\u201d The answer is never a comfort, but it is a data point I can act on. I turned that discomfort into a habit of progressive overload\u2014not in the gym, but in the ledger of my commitments. One extra client call, one more page of the pitch deck, a marginally tighter deadline. Those incremental pressures compound, and before long the \u201cextra\u201d becomes the new baseline. In business, just as in training, the body  adapts only to the stress you intentionally apply.\n\nStoicism taught me to premeditate failure, not as a morbid obsession, but as a rehearsal for resilience. I would run through the worst\u2011case scenario of a product launch\u2014regulatory snags, supply chain breakdowns, a PR backlash\u2014then map the exact steps I would take to mitigate each. When the actual launch day arrived, the anxiety that usually paralyzes most founders was a quiet background hum; I was already prepared to act. This mental rehearsal is the business equivalent of \u201crecovery is training.\u201d The moments when I\u2019m not actively pushing forward\u2014sleep, reflection, strategic retreats\u2014are where the nervous system rewires, where the lessons settle into intuition. Ignoring recovery was my biggest early mistake; I burned out faster than a startup can pivot.\n\nLeadership, at its core, is an exercise in removing ego and leading by example. Early in my career I tried to inspire my team with grand speeches, but the results were fleeting. When I started showing up at the warehouse floor, logging the same hours of data entry as the junior analysts, the culture shifted. The team began to internalize the same discipline I practiced, and the collective output multiplied. As Jocko Willink reminds us, there are no bad teams, only bad leaders. By owning every misstep\u2014whether a missed deadline or a botched negotiation\u2014I gave my people permission to own theirs, and the whole organization became a single, disciplined organism.\n\nThe paradox I\u2019ve lived with for decades is simple: the more I stripped away the reliance on fleeting motivation, the more I discovered a deep well of purpose that fuels relentless effort. Discipline is not a cage; it is the key that turns the lock on your potential. If you\u2019re still waiting for the perfect burst of inspiration, you\u2019re trading tomorrow\u2019s freedom for today\u2019s comfort. Tomorrow, write down three \u201cdiscipline actions\u201d you will complete before noon, and treat them as non\u2011negotiable. That tiny contract will begin to reshape how you chase every goal that matters.",
+      "chars": 3661,
+      "words": 600,
+      "rag_sources": [
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md"
+      ]
+    },
+    "director": {
+      "verdict": "APPROVE",
+      "score": 7,
+      "hook": "A compelling hook about discipline over motivation",
+      "angle": "Focus on practical wisdom with character voice",
+      "images": [
+        "Scene 1: discipline over motivation",
+        "Scene 2: discipline over motivation context",
+        "Scene 3: discipline over motivation action"
+      ],
+      "style": "cinematic, dramatic lighting, 4k quality",
+      "title_suggestion": "How to Master Discipline Over Motivation | The Strategic Approach",
+      "tags": [
+        "discipline over motivation",
+        "motivation",
+        "self-improvement",
+        "wisdom"
+      ],
+      "reasoning": "Auto-approved due to LLM unavailability. Topic: discipline over motivation",
+      "changes_if_revise": ""
+    },
+    "mpt_video": {
+      "status": "failed",
+      "error": "-text-fore-color TEXT_FORE_COLOR] [--font-size FONT_SIZE]\n              [--stroke-color STROKE_COLOR] [--stroke-width STROKE_WIDTH]\n              [--subtitle-background-enabled | --no-subtitle-background-enabled]\n              [--subtitle-background-color SUBTITLE_BACKGROUND_COLOR]\n              [--rounded-subtitle-background | --no-rounded-subtitle-background]\n              [--task-id TASK_ID]\ncli.py: error: argument --task-id: task-id must be a valid UUID, got 'izuku_midoriya_20260908_052057'\n"
+    }
+  },
+  "status": "mpt_failed"
+}

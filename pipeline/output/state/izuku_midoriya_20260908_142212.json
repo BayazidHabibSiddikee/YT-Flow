@@ -1,0 +1,173 @@
+{
+  "run_id": "izuku_midoriya_20260908_142212",
+  "topic": "the power of compound habits",
+  "niche": "izuku_midoriya",
+  "stages": {
+    "script": {
+      "text": "Lightning crackles night, sand stings shore, Dagobah Beach burns, my Hero Notebook trembles, One\u2011For\u2011All whispers, 85% power humming, while doubts flicker like\n\nMorning rain smells metallic, I grind kettles, habit stacks like bricks, each rep echoing, stamina builds daily, fear recedes slowly, focus sharpens\n\nWhen market roars, I picture collapse, breathe cold air, anchor offers sharply, label rivals\u2019 anxiety, then strike relentless, no mercy ever, profit\n\nSometimes Sarah\u2019s grin wavers,  \nmy confidence trembles,  \nyet I remember,  \nimp",
+      "chars": 728,
+      "words": 107,
+      "rag_sources": [
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/bhagavad_gita_wisdom.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/psychology_of_influence.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/psychology_of_influence.md"
+      ]
+    },
+    "director": {
+      "verdict": "REVISE",
+      "score": 4,
+      "hook": "Deku didn't become the strongest hero overnight. He stacked 1% micro-wins while everyone else slept.",
+      "angle": "Translate the concept of 'Atomic Habits' into Izuku Midoriya's brutal training journey\u2014showing how pulling trash on the beach compounded into wielding One For All.",
+      "images": [
+        "15-year-old Izuku weeping on Dagobah Beach surrounded by mountains of rust and iron.",
+        "Fast-cut montage: Deku scribbling furiously in Hero Analysis Vol. 13 at 2 AM, clock ticking.",
+        "High-energy transformation cut: Green lightning explodes as Full Cowl jumps from 5% to 20% to 100%."
+      ],
+      "style": "Dark motivational anime edit, fast text-on-screen overlay, high-contrast green aura effects, heavy bass/phonk build-up into cinematic orchestral drop.",
+      "title_suggestion": "The 1% Rule That Made Deku Unstoppable \u26a1 | Anime Motivation",
+      "tags": [
+        "izukumidoriya",
+        "myheroacademia",
+        "animemotivation",
+        "compoundhabits",
+        "grindset"
+      ],
+      "reasoning": "The core topic (Compound Habits) is a perfect fit for the Izuku Midoriya niche, but the draft script is totally wrong for the audience. The text reads like poetic corporate prose ('espresso', 'market volatility', 'Raj', 'jasmine'). Anime short-form viewers will swipe away instantly. Midoriya represents raw effort, grit, notebooks, and physical sacrifice\u2014the script must reflect that energy.",
+      "changes_if_revise": "1. Throw out the corporate/poetic script entirely.\n2. Write a fast-paced, high-intensity voiceover using Deku-specific lore (Dagobah Beach, Hero Notebooks, One For All percentages).\n3. Keep sentences short (3-6 words per line) so it hits hard on beat drops.\n4. Shift from reflective monologue to aggressive, call-to-action motivational speech."
+    },
+    "mpt_video": {
+      "status": "success",
+      "task_id": "5a3b40bb-f7e4-45a8-a78c-0beb28f1c819",
+      "result": {
+        "videos": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/5a3b40bb-f7e4-45a8-a78c-0beb28f1c819/final-1.mp4"
+        ],
+        "combined_videos": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/5a3b40bb-f7e4-45a8-a78c-0beb28f1c819/combined-1.mp4"
+        ],
+        "script": "Lightning crackles night, sand stings shore, Dagobah Beach burns, my Hero Notebook trembles, One\u2011For\u2011All whispers, 85% power humming, while doubts flicker like\n\nMorning rain smells metallic, I grind kettles, habit stacks like bricks, each rep echoing, stamina builds daily, fear recedes slowly, focus sharpens\n\nWhen market roars, I picture collapse, breathe cold air, anchor offers sharply, label rivals\u2019 anxiety, then strike relentless, no mercy ever, profit\n\nSometimes Sarah\u2019s grin wavers,  \nmy confidence trembles,  \nyet I remember,  \nimp",
+        "terms": [
+          "motivation lightning",
+          "motivation training",
+          "motivation market",
+          "motivation confidence",
+          "motivation stamina"
+        ],
+        "audio_file": "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/5a3b40bb-f7e4-45a8-a78c-0beb28f1c819/audio.mp3",
+        "audio_duration": 42,
+        "subtitle_path": "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/5a3b40bb-f7e4-45a8-a78c-0beb28f1c819/subtitle.srt",
+        "materials": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-3d45eef179b3ec3996088a0f14dcb6d9.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-593d4f3ec46dc6ec50bc2a3e4c8e3a1d.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-f6a6aeaf9fde8822e9e74b453c006e3d.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-0caffa46cf7b5c7c0a852ddbbb0f5220.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-6105d6b20f9ff6e6cc8eab97623c5c7a.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-717bc88daf7adfd9f830e539b29de5ef.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-bc2d46d0b77ecd1fc79c38b873a8b35f.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-2d5a6c08d0eb620b69b65ec845d7c8ef.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-f7f8d86eda6f90571bd142ac176350c1.mp4"
+        ],
+        "cross_post_state": null,
+        "cross_post_results": null,
+        "cross_post_error": null,
+        "cross_post_owner": null,
+        "warnings": null
+      }
+    },
+    "video": {
+      "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_142212_mpt.mp4",
+      "mpt_task_id": "5a3b40bb-f7e4-45a8-a78c-0beb28f1c819",
+      "video_size": 12693968,
+      "duration": 42.03
+    },
+    "quality_check": {
+      "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_142212_mpt.mp4",
+      "checks": {
+        "file_size": {
+          "value": 12693968,
+          "unit": "bytes",
+          "pass": true
+        },
+        "duration": {
+          "value": 42.03,
+          "unit": "seconds",
+          "pass": true
+        },
+        "resolution": {
+          "value": "1080x1920",
+          "pass": true
+        },
+        "video_bitrate": {
+          "value": 2215678,
+          "unit": "bps",
+          "pass": true
+        },
+        "audio_stream": {
+          "pass": true
+        }
+      },
+      "passed": true,
+      "errors": [],
+      "duration": 42.03,
+      "file_size_mb": 12.11
+    },
+    "upload_meta": {
+      "youtube": {
+        "title": "The Power of Compound Habits: Izuku Midoriya's Mindset \u26a1 #Shorts",
+        "description": "Discover how small, daily reps build unstoppable momentum through the lens of Izuku Midoriya. From clearing Dagobah Beach to controlling 85% of One For All, habit stacking is the ultimate cheat code to overcoming doubt and mastering focus.\n\nWhether you're building physical stamina, sharpening your mindset under pressure, or tackling high-stakes challenges, compound habits forge resilience. Brick by brick, every rep echoes until fear recedes and profit, growth, and victory follow.\n\n#IzukuMidoriya #CompoundHabits #AnimeMotivation #Mindset #Shorts #Discipline #Deku",
+        "tags": [
+          "izuku midoriya",
+          "compound habits",
+          "anime motivation",
+          "one for all",
+          "deku mindset",
+          "habit stacking",
+          "my hero academia motivation",
+          "discipline",
+          "self improvement",
+          "my hero academia shorts",
+          "deku workout",
+          "hero mindset",
+          "daily discipline",
+          "success habits",
+          "anime gym motivation"
+        ],
+        "category": "Entertainment",
+        "thumbnail_text": [
+          "85% POWER",
+          "COMPOUND HABITS"
+        ]
+      },
+      "social": {
+        "instagram": "One rep at a time. One habit at a time. \u26a1\n\nDagobah Beach wasn't cleaned in a day, and 85% One For All wasn't mastered overnight. Habit stacking builds momentum until fear recedes and focus sharpens.\n\nBuild your bricks daily. Master the compound effect. \ud83d\udd25\n.\n.\n#IzukuMidoriya #CompoundHabits #AnimeMotivation #MindsetShift #DisciplineOverMotivation #Deku #MyHeroAcademia #SelfImprovement #HabitStacking",
+        "twitter": [
+          "1/ Lightning crackles, sand stings, but daily reps build an unstoppable force. Izuku Midoriya didn't conquer One For All in a day\u2014he stacked habits brick by brick. \u26a1",
+          "2/ Whether it\u2019s clearing Dagobah Beach or maintaining razor-sharp focus under pressure, compound habits carve out victory. Build stamina. Quiet doubts. Execute. #CompoundHabits #AnimeMotivation"
+        ],
+        "tiktok": "85% power starts with 1% daily reps. \u26a1 Habit stacking builds ultimate discipline. What habit are you building today? #izukumidoriya #anime #motivation #compoundhabits #deku #mindset #myheroacademia",
+        "linkedin": "Success isn't an overnight explosion\u2014it's the relentless compound effect of daily discipline.\n\nDrawing inspiration from Deku\u2019s rigorous transformation on Dagobah Beach: when you stack small, daily improvements, stamina builds, anxiety recedes, and high-pressure execution becomes second nature.\n\nFocus on the daily reps, anchor your decisions with composure, and let compound interest do the heavy lifting in your career and performance.\n\n#PersonalDevelopment #Discipline #Mindset #Productivity #ContinuousImprovement"
+      },
+      "seo": {
+        "primary_keyword": "compound habits anime motivation",
+        "secondary_keywords": [
+          "izuku midoriya discipline",
+          "deku habit stacking",
+          "one for all mindset",
+          "daily habits motivation"
+        ],
+        "best_time": "4:00 PM - 7:00 PM EST (Peak anime and self-improvement viewer activity)"
+      }
+    },
+    "upload": {
+      "status": "uploaded",
+      "video_id": "l-SoeJqPi1A",
+      "url": "https://youtu.be/l-SoeJqPi1A"
+    },
+    "captions_path": "output/captions/captions_20260908_142812.md",
+    "social_posts": "output/posts/posts_20260908_142827.md"
+  },
+  "status": "complete",
+  "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_142212_mpt.mp4"
+}

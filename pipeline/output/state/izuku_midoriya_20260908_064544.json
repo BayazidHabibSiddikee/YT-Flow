@@ -1,0 +1,128 @@
+{
+  "run_id": "izuku_midoriya_20260908_064544",
+  "topic": "discipline over motivation",
+  "niche": "izuku_midoriya",
+  "stages": {
+    "script": {
+      "text": "Motivation is a fleeting spark; discipline is the furnace that powers every empire you build, regardless of mood, in the boardroom.\n\nShowing up daily, even when exhausted, compounds like compound interest, granting the freedom to choose opportunities others fear to pursue\n\nVisualize worst-case setbacks tonight; when the mind rehearses failure, waking courage becomes automatic, and recovery days transform into growth accelerators systematically.\n\nGuard your attention like gold, strip distractions ruthlessly, and confront the accountability mirror each morning, demanding honest assessment before strategic action daily.\n\nStart today: commit to a single, non\u2011negotiable habit for thirty days, then measure freedom gained, and iterate relentlessly in your life.",
+      "chars": 764,
+      "words": 105,
+      "rag_sources": [
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md"
+      ]
+    },
+    "director": {
+      "verdict": "APPROVE",
+      "score": 7,
+      "hook": "A compelling hook about discipline over motivation",
+      "angle": "Focus on practical wisdom with character voice",
+      "images": [
+        "Scene 1: discipline over motivation",
+        "Scene 2: discipline over motivation context",
+        "Scene 3: discipline over motivation action"
+      ],
+      "style": "cinematic, dramatic lighting, 4k quality",
+      "title_suggestion": "How to Master Discipline Over Motivation | The Strategic Approach",
+      "tags": [
+        "discipline over motivation",
+        "motivation",
+        "self-improvement",
+        "wisdom"
+      ],
+      "reasoning": "Auto-approved due to LLM unavailability. Topic: discipline over motivation",
+      "changes_if_revise": ""
+    },
+    "mpt_video": {
+      "status": "success",
+      "task_id": "cf7b6c74-cf44-4ee5-99b8-7c1f68eab4fb",
+      "result": {
+        "videos": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/cf7b6c74-cf44-4ee5-99b8-7c1f68eab4fb/final-1.mp4"
+        ],
+        "combined_videos": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/cf7b6c74-cf44-4ee5-99b8-7c1f68eab4fb/combined-1.mp4"
+        ],
+        "script": "Motivation is a fleeting spark; discipline is the furnace that powers every empire you build, regardless of mood, in the boardroom.\n\nShowing up daily, even when exhausted, compounds like compound interest, granting the freedom to choose opportunities others fear to pursue\n\nVisualize worst-case setbacks tonight; when the mind rehearses failure, waking courage becomes automatic, and recovery days transform into growth accelerators systematically.\n\nGuard your attention like gold, strip distractions ruthlessly, and confront the accountability mirror each morning, demanding honest assessment before strategic action daily.\n\nStart today: commit to a single, non\u2011negotiable habit for thirty days, then measure freedom gained, and iterate relentlessly in your life.",
+        "terms": [
+          "discipline motivation",
+          "discipline habit",
+          "discipline focus",
+          "discipline growth",
+          "discipline success"
+        ],
+        "audio_file": "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/cf7b6c74-cf44-4ee5-99b8-7c1f68eab4fb/audio.mp3",
+        "audio_duration": 48,
+        "subtitle_path": "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/cf7b6c74-cf44-4ee5-99b8-7c1f68eab4fb/subtitle.srt",
+        "materials": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-6e4486580b7620d277161e5b041a5131.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-86f7309d12e0ff3b43e3e051ee02b849.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-567f6b96e046c6950b6a4ba0b28a655f.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-791e3ba49c7e62509a3824b29ef823db.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-aeda3cd6145c56c30ba781f5c4a96c61.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-866f45c953c4228d2841c01e7b31c9d3.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-a9a06394921f30070c5544d05ec3142c.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-1a0095436fba68078f9f1136b895bceb.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-111d9592348f804c8dde220bcffb8118.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-d1c88e20afa4f55a744028cc0a4dfda2.mp4"
+        ],
+        "cross_post_state": null,
+        "cross_post_results": null,
+        "cross_post_error": null,
+        "cross_post_owner": null,
+        "warnings": null
+      }
+    },
+    "video": {
+      "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_064544_mpt.mp4",
+      "mpt_task_id": "cf7b6c74-cf44-4ee5-99b8-7c1f68eab4fb",
+      "video_size": 15124071,
+      "duration": 47.9
+    },
+    "upload_meta": {
+      "youtube": {
+        "title": "How to Master Discipline Over Motivation | Strategy & Wisdom",
+        "description": "Deep insights on 'discipline over motivation' from a wealthy polymath perspective.\n\nTopics covered:\n- Key strategies for discipline over motivation\n- Real-world applications\n- Actionable advice you can use today\n\n#Motivation #SelfImprovement #Wisdom #disciplineovermotivation",
+        "tags": [
+          "discipline over motivation",
+          "motivation",
+          "self improvement",
+          "business",
+          "wisdom",
+          "success"
+        ],
+        "category": "Education",
+        "thumbnail_text": [
+          "Discipline",
+          "motivation"
+        ]
+      },
+      "social": {
+        "instagram": "You don't need luck for discipline over motivation. You need strategy. Here's what I've learned after decades of observation...",
+        "twitter": [
+          "The secret to mastering discipline over motivation? Most people overcomplicate it.",
+          "Here's the simple truth: discipline over motivation isn't about talent \u2014 it's about consistency.",
+          "Stop making excuses. Start executing. #Motivation"
+        ],
+        "tiktok": "POV: You finally understand discipline over motivation \ud83e\udde0\u26a1\ufe0f #motivation #wisdom #growth",
+        "linkedin": "After years of building businesses and studying human nature, here's my take on discipline over motivation."
+      },
+      "seo": {
+        "primary_keyword": "discipline over motivation",
+        "secondary_keywords": [
+          "discipline over motivation motivation",
+          "self improvement",
+          "wisdom"
+        ],
+        "best_time": "6-9 AM or 7-10 PM local time"
+      }
+    },
+    "captions_path": "output/captions/captions_20260908_065142.md",
+    "social_posts": "output/posts/posts_20260908_065144.md"
+  },
+  "status": "complete",
+  "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_064544_mpt.mp4"
+}

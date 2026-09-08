@@ -1,0 +1,15 @@
+[Script Info]
+Title: Law 3 Captions
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default, Arial, 48, &HFFFFFF, &H000000, &H000000, &H000000, 0, 0, 0, 0, 100, 100, 0, 0, 1, 2, 1, 2, 20, 20, 120, 1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,Law 3: Conceal Your Intentions
+Dialogue: 0,0:00:05.00,0:00:10.00,Default,,0,0,0,,Keep people off-balance by never revealing your purpose
+Dialogue: 0,0:00:10.00,0:00:14.97,Default,,0,0,0,,The most powerful person is the one no one sees coming

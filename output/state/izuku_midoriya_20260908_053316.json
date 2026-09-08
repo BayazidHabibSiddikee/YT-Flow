@@ -1,0 +1,45 @@
+{
+  "run_id": "izuku_midoriya_20260908_053316",
+  "topic": "discipline over motivation",
+  "niche": "izuku_midoriya",
+  "stages": {
+    "script": {
+      "text": "I\u2019ve spent more than two decades watching people chase the flash of motivation and then disappear when the grind turns real. The truth I\u2019ve learned is that motivation is a fickle guest; discipline is the landlord of lasting success. When I was thirty\u2011four, I built my first venture while still pulling all\u2011nighters at the gym. The early mornings were never fueled by excitement\u2014they were powered by a routine I\u2019d forged in steel and spreadsheets. That routine gave me the freedom to pivot, to expand, to take risks that a \u201cfeeling\u2011based\u201d mindset would have never permitted.\u202fDiscipline equals freedom, and I have lived it.\n\nConsistency beats intensity every single time. I once tried to sprint a product launch in a single month, throwing everything at it and burning out my team. The next quarter I stripped it down to a daily cadence: a brief stand\u2011up, a single measurable metric, a modest improvement. Those tiny, deliberate steps compounded into a market\u2011leading platform. The lesson is brutal but simple: showing up every day, even when the world tells you to rest, builds the habit that shields you from the inevitable storms of business and life.\n\nProgressive overload isn\u2019t just a gym term; it\u2019s a principle for any growth engine. I increase my reading load by one article a week, I add a new KPI to my portfolio each quarter, I raise the bar on personal fitness by adding five more pounds to the barbell. Each incremental demand forces my mind and body to adapt, turning \u201cI can\u2019t\u201d into \u201cI just did.\u201d When you treat improvement as a series of manageable lifts rather than a massive, impossible lift, the 40% rule\u2014your brain\u2019s lie that you\u2019re done\u2014vanishes.\n\nRecovery is the hidden half of discipline. I schedule \u201cshutdown\u201d periods for my companies the same way I schedule cardio for my heart. Sleep, nutrition, time away from screens\u2014these are not luxuries, they are the very fuel that lets the disciplined parts of me operate at peak efficiency. When you neglect recovery, you trade short\u2011term gains for long\u2011term collapse. The moment you treat rest as a strategic asset, you unlock a resilience that makes every setback feel like a stepping stone rather than a wall.\n\nFinally, I keep a mental cookie jar of every small victory: the first deal closed, the day I ran a mile without stopping, the night I stayed calm while a client threatened to pull out. When doubt creeps in, I reach in and remember that I have already proven my capacity to endure. That practice is my premeditatio malorum\u2014visualizing the worst and realizing I\u2019ve survived worse before.\u202fActionable insight: write down three concrete habits you will perform tomorrow, no matter how uninspired you feel, and commit to them as non\u2011negotiable. Your future self will thank you for the discipline you chose over the fleeting promise of motivation.",
+      "chars": 2817,
+      "words": 474,
+      "rag_sources": [
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md"
+      ]
+    },
+    "director": {
+      "verdict": "APPROVE",
+      "score": 7,
+      "hook": "A compelling hook about discipline over motivation",
+      "angle": "Focus on practical wisdom with character voice",
+      "images": [
+        "Scene 1: discipline over motivation",
+        "Scene 2: discipline over motivation context",
+        "Scene 3: discipline over motivation action"
+      ],
+      "style": "cinematic, dramatic lighting, 4k quality",
+      "title_suggestion": "How to Master Discipline Over Motivation | The Strategic Approach",
+      "tags": [
+        "discipline over motivation",
+        "motivation",
+        "self-improvement",
+        "wisdom"
+      ],
+      "reasoning": "Auto-approved due to LLM unavailability. Topic: discipline over motivation",
+      "changes_if_revise": ""
+    },
+    "mpt_video": {
+      "status": "timeout",
+      "error": "MPT generation timed out (10min)"
+    }
+  },
+  "status": "mpt_failed"
+}

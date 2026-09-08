@@ -1,0 +1,45 @@
+{
+  "run_id": "izuku_midoriya_20260908_052129",
+  "topic": "discipline over motivation",
+  "niche": "izuku_midoriya",
+  "stages": {
+    "script": {
+      "text": "I\u2019ve spent decades watching the market\u2019s tides and my own heart beat under the weight of deadlines, and one truth has never wavered: motivation is a fickle guest, but discipline is the landlord of lasting success. Early in my career, I chased the high\u2011octane rush of \u201cinspiration\u201d\u2014a brilliant pitch, a flash of genius, a surge of adrenaline before a product launch. Those bursts carried me forward for a week or two, but the moment the novelty faded, the momentum stalled. It wasn\u2019t until I adopted the stoic habit of Premeditatio Malorum, visualizing the inevitable slump, that I realized I could not rely on fleeting feelings. I built a framework of daily rituals\u2014sleep, nutrition, a 30\u2011minute read on human behavior, and a single compound exercise\u2014because discipline equals freedom; the more rigorously I tended the fundamentals, the more latitude I earned to innovate without fear.\n\nConsistency over intensity became my mantra the way a blacksmith steadies the hammer. I stopped hunting for \u201cheroic\u201d weeks of 80\u2011hour marathons and instead committed to showing up every single morning at 5\u202fa.m., eyes on the ledger and the kettlebell. The compound movements\u2014squat, deadlift, press\u2014are a metaphor for business: they engage the whole system, forcing my nervous system to adapt holistically. Small, incremental upgrades\u2014adding five pounds, drafting one extra page of strategy\u2014compound into exponential growth. When I look back, the breakthroughs weren\u2019t sudden; they were the sum of countless disciplined repetitions that the market never saw, but the results could not ignore.\n\nIn the boardroom, I apply the same principle of Extreme Ownership: if a team misses a milestone, I ask myself what I failed to communicate, what habit I didn\u2019t model, what ego I let slip. The moment I stopped blaming external factors and embraced the accountability mirror, the culture shifted. My executives now treat the \u201csuffering moment\u201d not as a punishment but as a forge. They understand that pain is temporary, while quitting is permanent. By eliminating distractions ruthlessly\u2014turning off notifications, protecting my attention like gold\u2014I free mental bandwidth for strategic thinking. This is the business equivalent of Recovery Is Training: the pauses, the reflection, the sleep, are where the real value is integrated.\n\nStoicism taught me to anchor decisions in virtue, not fear. When a deal looks tempting but conflicts with justice or temperance, I step back, visualize the worst\u2011case scenario , and let reason guide me. The result is a portfolio built on integrity, not speculation. I also keep a cookie jar of past victories\u2014a closed\u2011door funding round, a product that survived a market crash\u2014to pull from when doubt creeps in. That mental reservoir reminds me that I\u2019ve already calledoused my mind through hardship; the next obstacle is just another rung on the ladder.\n\nSo today I ask you to choose one discipline you\u2019ve been deferring\u2014whether it\u2019s a morning workout, a nightly journal, or a weekly strategic review\u2014and schedule it for the next seven days without exception. Treat it as non\u2011negotiable as a board meeting. When the urge to skip arises, remember the 40% rule: you\u2019re only at the beginning of your capacity. Press forward, and you\u2019ll discover that the freedom you crave was waiting behind a simple, repeated act.",
+      "chars": 3323,
+      "words": 528,
+      "rag_sources": [
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md"
+      ]
+    },
+    "director": {
+      "verdict": "APPROVE",
+      "score": 7,
+      "hook": "A compelling hook about discipline over motivation",
+      "angle": "Focus on practical wisdom with character voice",
+      "images": [
+        "Scene 1: discipline over motivation",
+        "Scene 2: discipline over motivation context",
+        "Scene 3: discipline over motivation action"
+      ],
+      "style": "cinematic, dramatic lighting, 4k quality",
+      "title_suggestion": "How to Master Discipline Over Motivation | The Strategic Approach",
+      "tags": [
+        "discipline over motivation",
+        "motivation",
+        "self-improvement",
+        "wisdom"
+      ],
+      "reasoning": "Auto-approved due to LLM unavailability. Topic: discipline over motivation",
+      "changes_if_revise": ""
+    },
+    "mpt_video": {
+      "status": "failed",
+      "error": " CUSTOM_POSITION]\n              [--text-fore-color TEXT_FORE_COLOR] [--font-size FONT_SIZE]\n              [--stroke-color STROKE_COLOR] [--stroke-width STROKE_WIDTH]\n              [--subtitle-background-enabled | --no-subtitle-background-enabled]\n              [--subtitle-background-color SUBTITLE_BACKGROUND_COLOR]\n              [--rounded-subtitle-background | --no-rounded-subtitle-background]\n              [--task-id TASK_ID]\ncli.py: error: one of --video-subject or --video-script is required\n"
+    }
+  },
+  "status": "mpt_failed"
+}

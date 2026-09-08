@@ -1,0 +1,173 @@
+{
+  "run_id": "izuku_midoriya_20260908_142859",
+  "topic": "why rich people stay quiet",
+  "niche": "izuku_midoriya",
+  "stages": {
+    "script": {
+      "text": "While the world shouts about wealth, the richest whisper\u2014like a lone hero moving through midnight streets in silence, an imperative calm.\n\nI remember Raj warning me, a cautionary echo, the steel vault's chill reminding that money buys walls, not peace, and silence guards\n\nAt a gala, Sarah's laughter rang like clinking glasses, yet malignant envy hovered, a sour perfume I could taste, urging me\n\nSometimes I wonder if quiet is cowardice or strategy; the dubious answer flickers, a dim lantern, as I invest in unseen assets.\n\nThe night air smells of rain on pavement, and I ask: will the next silent move outshine the loudest triumph, hinting at",
+      "chars": 695,
+      "words": 106,
+      "rag_sources": [
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/psychology_of_money.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/psychology_of_money.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/psychology_of_influence.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/marketing_strategy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/48_laws_of_power.md"
+      ]
+    },
+    "director": {
+      "verdict": "REVISE",
+      "score": 4,
+      "hook": "Broke people flex. Billionaires hide. Here is the terrifying reason why...",
+      "angle": "Psychology of Stealth Wealth paired with the 'Silent Grind' / Dark Deku mindset aesthetic.",
+      "images": [
+        "Dark Deku standing motionless on a rainy skyscraper edge looking down at city lights",
+        "Split-screen contrast: Flashy influencer shouting in a rented supercar vs a silent silhouette in an empty high-rise office",
+        "Close up of glowing green energy sparking quietly in the dark with bold impact typography reading 'POWER SILENCE'"
+      ],
+      "style": "Cinematic dark anime edit, high-contrast monochrome with glowing accents, fast text-on-screen, deep resonant audio",
+      "title_suggestion": "Why REAL Billionaires Stay Quiet... \ud83e\udd2b",
+      "tags": [
+        "izukumidoriya",
+        "stealthwealth",
+        "richmindset",
+        "motivation",
+        "shorts"
+      ],
+      "reasoning": "The core topic ('Why rich people stay quiet') is a proven viral formula for Shorts/Reels in the self-improvement and finance space. However, your draft text reads like high school poetic prose ('coppery triumph', 'slow fermentation'). On YouTube Shorts, viewers will swipe away within 1.5 seconds if you describe the 'scent of rain on steel.' You need instant psychological hooks, zero fluff, and high-energy pacing.",
+      "changes_if_revise": "1. Kill the poetic language immediately. 2. Rewrite the script into 3 sharp, punchy bullet points (e.g., Security, Envy, Stealth Power). 3. Hook the viewer in the first 2 seconds with a strong contrast statement. 4. Seamlessly visually integrate the Izuku Midoriya theme (using his 'Dark/Solo Hero' arc to represent quiet, relentless power)."
+    },
+    "mpt_video": {
+      "status": "success",
+      "task_id": "a6c657b7-cf7d-4d7c-8b6f-280531c1ce62",
+      "result": {
+        "videos": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/a6c657b7-cf7d-4d7c-8b6f-280531c1ce62/final-1.mp4"
+        ],
+        "combined_videos": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/a6c657b7-cf7d-4d7c-8b6f-280531c1ce62/combined-1.mp4"
+        ],
+        "script": "While the world shouts about wealth, the richest whisper\u2014like a lone hero moving through midnight streets in silence, an imperative calm.\n\nI remember Raj warning me, a cautionary echo, the steel vault's chill reminding that money buys walls, not peace, and silence guards\n\nAt a gala, Sarah's laughter rang like clinking glasses, yet malignant envy hovered, a sour perfume I could taste, urging me\n\nSometimes I wonder if quiet is cowardice or strategy; the dubious answer flickers, a dim lantern, as I invest in unseen assets.\n\nThe night air smells of rain on pavement, and I ask: will the next silent move outshine the loudest triumph, hinting at",
+        "terms": [
+          "wealth silence",
+          "wealth strategy",
+          "wealth night",
+          "wealth gala",
+          "wealth rain"
+        ],
+        "audio_file": "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/a6c657b7-cf7d-4d7c-8b6f-280531c1ce62/audio.mp3",
+        "audio_duration": 43,
+        "subtitle_path": "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/a6c657b7-cf7d-4d7c-8b6f-280531c1ce62/subtitle.srt",
+        "materials": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-41e86d89cd449f1c61faa190d51f46aa.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-4711f4e625bb576110b6a466fe005114.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-b520c707f71a425c9be3ac0fed37fb7d.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-e75aaae4a060ad019f828c65fc4e99bc.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-253aef90c578d824fe3bd5da408734cc.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-8100fc9afe846527ef9320cf4bb78d20.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-2902051805e1096406dbee9b05a54cd3.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-e4abfb5d1a37c0f43945e6b7ebc2caf4.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-dfd06e65cb9ac2dbe19c7f9fdaf3ed6a.mp4"
+        ],
+        "cross_post_state": null,
+        "cross_post_results": null,
+        "cross_post_error": null,
+        "cross_post_owner": null,
+        "warnings": null
+      }
+    },
+    "video": {
+      "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_142859_mpt.mp4",
+      "mpt_task_id": "a6c657b7-cf7d-4d7c-8b6f-280531c1ce62",
+      "video_size": 21385540,
+      "duration": 43.63
+    },
+    "quality_check": {
+      "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_142859_mpt.mp4",
+      "checks": {
+        "file_size": {
+          "value": 21385540,
+          "unit": "bytes",
+          "pass": true
+        },
+        "duration": {
+          "value": 43.63,
+          "unit": "seconds",
+          "pass": true
+        },
+        "resolution": {
+          "value": "1080x1920",
+          "pass": true
+        },
+        "video_bitrate": {
+          "value": 3721211,
+          "unit": "bps",
+          "pass": true
+        },
+        "audio_stream": {
+          "pass": true
+        }
+      },
+      "passed": true,
+      "errors": [],
+      "duration": 43.63,
+      "file_size_mb": 20.39
+    },
+    "upload_meta": {
+      "youtube": {
+        "title": "Why The Truly Rich Stay Silent... \ud83e\udd2b (The Hero Strategy)",
+        "description": "While the world shouts about wealth, the truly powerful move in silence. In a world full of noise, quiet strategy always outshines loud triumphs. Learn why real success doesn't need an audience and how protecting your peace is the ultimate wealth strategy.\n\nInspired by the quiet determination of Deku (Izuku Midoriya), this short explores stealth wealth, strategic silence, and the power of building in the dark.\n\n#Shorts #WealthMindset #IzukuMidoriya #StealthWealth #Motivation #AnimeMindset",
+        "tags": [
+          "why rich people stay quiet",
+          "stealth wealth",
+          "izuku midoriya motivation",
+          "deku mindset",
+          "wealth strategy",
+          "silent success",
+          "quiet confidence",
+          "financial freedom",
+          "anime motivation",
+          "dark academia wealth",
+          "mindset shorts",
+          "psychology of money",
+          "hero mindset",
+          "build in silence",
+          "wealth discipline"
+        ],
+        "category": "Education",
+        "thumbnail_text": [
+          "SILENCE =",
+          "POWER \ud83e\udd2b"
+        ]
+      },
+      "social": {
+        "instagram": "The loudest in the room is often the weakest. Real wealth moves like a hero through midnight streets\u2014silent, calculated, and focused. \ud83c\udf27\ufe0f\u2728\n\nIs your silence a strategy or cowardice? Leave a '\ud83e\udd2b' if you're building in the dark.\n.\n.\n.\n#IzukuMidoriya #WealthMindset #StealthWealth #Deku #QuietSuccess #MindsetShift #AnimeMotivation #SilentMoves",
+        "twitter": [
+          "1/ While the world shouts about wealth, the truly powerful whisper. Silence isn't cowardice\u2014it's strategy. \ud83e\udd2b thread/",
+          "2/ Money buys walls, not peace. Noise attracts envy, but silence protects your vision. Move like a hero through the night and let your results speak for you. #WealthMindset #IzukuMidoriya"
+        ],
+        "tiktok": "Why the truly rich never boast... \ud83c\udf27\ufe0f Move in silence like a hero in the night. #izukumidoriya #deku #stealthwealth #wealthmindset #animequotes #silentmoves #motivation",
+        "linkedin": "In business and life, loud success often invites unnecessary friction. True strategy lies in discreet execution and protecting your focus.\n\nBuilding unseen assets and operating with silent confidence is far more sustainable than seeking public validation. True power doesn't need to shout to be felt.\n\nHow do you balance visibility with strategic privacy in your career?"
+      },
+      "seo": {
+        "primary_keyword": "why rich people stay quiet",
+        "secondary_keywords": [
+          "stealth wealth strategy",
+          "izuku midoriya mindset",
+          "silent success motivation",
+          "psychology of wealth"
+        ],
+        "best_time": "4:00 PM - 7:00 PM EST (Peak engagement window for anime & self-improvement shorts)"
+      }
+    },
+    "upload": {
+      "status": "uploaded",
+      "video_id": "yPRU3kedHh4",
+      "url": "https://youtu.be/yPRU3kedHh4"
+    },
+    "captions_path": "output/captions/captions_20260908_143636.md",
+    "social_posts": "output/posts/posts_20260908_143649.md"
+  },
+  "status": "complete",
+  "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_142859_mpt.mp4"
+}

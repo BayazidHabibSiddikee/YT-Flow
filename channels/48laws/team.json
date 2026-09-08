@@ -1,0 +1,27 @@
+{
+  "id": "48-laws-of-power",
+  "name": "48 Laws of Power — Video Series",
+  "description": "Narrative video series explaining The 48 Laws of Power by Robert Greene. Each video tells one law through a story-driven format.",
+  "niche": "Power, strategy, self-improvement, philosophy",
+  "social_platforms": ["instagram", "youtube", "facebook", "x"],
+  "pipeline": {
+    "steps": [
+      "write_story",
+      "generate_images",
+      "generate_voice",
+      "assemble_video",
+      "post_social"
+    ],
+    "iterations": 48,
+    "notify_via": ["telegram"]
+  },
+  "tools": {
+    "video": "${BASE}/tools/MoneyPrinterTurbo",
+    "voice": "${BASE}/assets/audio/VibeVoice"
+  },
+  "members": {
+    "Writer": ["pat_writer"],
+    "Engineer": ["hermes"],
+    "Director": ["general_vector"]
+  }
+}

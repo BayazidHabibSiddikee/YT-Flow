@@ -1,0 +1,45 @@
+{
+  "run_id": "izuku_midoriya_20260908_052239",
+  "topic": "discipline over motivation",
+  "niche": "izuku_midoriya",
+  "stages": {
+    "script": {
+      "text": "Discipline is the invisible scaffolding behind every venture that survives the test of time. Early in my career, I chased the high\u2011octane thrill of \u201cmotivation spikes\u201d \u2013 the sudden rush that comes when a new product launches or a headline investor shows interest. Those moments feel heroic, but they\u2019re fleeting. When the novelty fades, I was left scrambling to keep the ship afloat. The first hard\u2011won truth I learned: motivation is a guest; discipline is the host. By committing to the fundamentals\u2014showing up at the desk at 5\u202fa.m., logging the numbers you promised, and honoring the routines that keep your mind sharp\u2014I built a freedom that no surge of enthusiasm could ever grant.\n\nThe same principle governs the body, and the body governs the mind. I applied the training mantra Consistency Over Intensity to my daily schedule. Instead of an occasional marathon work sprint, I instituted a steady cadence: a single, focused hour on strategic planning, a half\u2011hour of reading the latest research on human behavior, and a thirty\u2011minute circuit of compound movements to keep the heart strong. The progressive overload wasn\u2019t about lifting heavier weights; it was about adding a thin layer of complexity to each task\u2014an extra metric, a deeper question, a tighter deadline. Over weeks, those micro\u2011increments compounded into a muscle of resilience that let me navigate market turbulence without panic.\n\nStoic philosophy gave me the mental architecture to sustain that discipline. I practice Premeditatio Malorum each night, visualizing the worst\u2011case scenario for the next day\u2019s negotiations. By confronting the potential loss of a contract or a product delay in my mind, I strip the fear of its power and act with clarity when the real moment arrives. The four cardinal virtues\u2014wisdom, courage, justice, temperance\u2014become decision\u2011filters. I ask myself: \u201cIs this move wise? Does it require courage or merely ego? Does it serve the team justly? Can I temper my ambition with realistic limits?\u201d When the answer is anything but, I pause, adjust, and proceed with disciplined intent.\n\nLeadership, as I\u2019ve learned from extreme ownership, is simply an extension of personal discipline. If a team falters, the fault line is my own leadership. I own every missed deadline, every miscommunication, and I rectify it before the blame can spread. That ownership forces me to eliminate distractions ruthlessly\u2014my phone is on silent during deep work, meetings have clear agendas, and I protect my attention like gold. When the team sees me consistently applying the same standards to myself, they internalize those habits, and the organization transforms from a collection of individuals into a synchronized engine of purpose.\n\nThe bottom line is simple: discipline is the lever that turns effort into exponential freedom. If you\u2019re waiting for motivation to strike, you\u2019re handing power over to a fickle emotion. Instead, decide today on one concrete habit you will perform without exception for the next thirty days\u2014be it a morning review of your goals, a ten\u2011minute meditation, or a daily log of progress. Mark it on a calendar, honor it like a non\u2011negotiable meeting, and watch how the space that motivation once occupied fills with reliable, unstoppable momentum.",
+      "chars": 3255,
+      "words": 518,
+      "rag_sources": [
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md"
+      ]
+    },
+    "director": {
+      "verdict": "APPROVE",
+      "score": 7,
+      "hook": "A compelling hook about discipline over motivation",
+      "angle": "Focus on practical wisdom with character voice",
+      "images": [
+        "Scene 1: discipline over motivation",
+        "Scene 2: discipline over motivation context",
+        "Scene 3: discipline over motivation action"
+      ],
+      "style": "cinematic, dramatic lighting, 4k quality",
+      "title_suggestion": "How to Master Discipline Over Motivation | The Strategic Approach",
+      "tags": [
+        "discipline over motivation",
+        "motivation",
+        "self-improvement",
+        "wisdom"
+      ],
+      "reasoning": "Auto-approved due to LLM unavailability. Topic: discipline over motivation",
+      "changes_if_revise": ""
+    },
+    "mpt_video": {
+      "status": "timeout",
+      "error": "MPT generation timed out (10min)"
+    }
+  },
+  "status": "mpt_failed"
+}

@@ -1,0 +1,45 @@
+{
+  "run_id": "izuku_midoriya_20260908_063905",
+  "topic": "discipline over motivation",
+  "niche": "izuku_midoriya",
+  "stages": {
+    "script": {
+      "text": "Motivation fades like sunrise; disciplined action is the perpetual engine that powers empires and personal mastery daily without exception.\n\nI schedule unwavering daily rituals\u2014early wake, focused work, deliberate training\u2014because consistency compounds faster than heroic bursts ever could.\n\nBefore each high\u2011stakes decision, I visualize worst outcomes, accept them mentally, then act with calm conviction, turning fear into strategic freedom.\n\nI treat recovery as training, loading my mind with progressive challenges while honoring sleep and nutrition, because resilience springs from balanced exertion.\n\nTomorrow, write a one\u2011page contract with yourself demanding five minutes of disciplined work before any craving, and honor it as non\u2011negotiable.",
+      "chars": 751,
+      "words": 101,
+      "rag_sources": [
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md"
+      ]
+    },
+    "director": {
+      "verdict": "APPROVE",
+      "score": 7,
+      "hook": "A compelling hook about discipline over motivation",
+      "angle": "Focus on practical wisdom with character voice",
+      "images": [
+        "Scene 1: discipline over motivation",
+        "Scene 2: discipline over motivation context",
+        "Scene 3: discipline over motivation action"
+      ],
+      "style": "cinematic, dramatic lighting, 4k quality",
+      "title_suggestion": "How to Master Discipline Over Motivation | The Strategic Approach",
+      "tags": [
+        "discipline over motivation",
+        "motivation",
+        "self-improvement",
+        "wisdom"
+      ],
+      "reasoning": "Auto-approved due to LLM unavailability. Topic: discipline over motivation",
+      "changes_if_revise": ""
+    },
+    "mpt_video": {
+      "status": "error",
+      "error": "name 'task_id' is not defined"
+    }
+  },
+  "status": "mpt_failed"
+}

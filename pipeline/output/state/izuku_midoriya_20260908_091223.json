@@ -1,0 +1,162 @@
+{
+  "run_id": "izuku_midoriya_20260908_091223",
+  "topic": "the power of compound habits",
+  "niche": "izuku_midoriya",
+  "stages": {
+    "script": {
+      "text": "Imagine turning every tiny habit into a relentless profit engine, as if your future self were already wealthier and wiser, strategically today.\n\nPremeditate worst\u2011case outcomes, then act with virtue, because disciplined focus converts obstacles into compound growth opportunities for relentless entrepreneurs daily purposefully.\n\nPerform your own strategic duty imperfectly, yet consistently, allowing the mind\u2019s inner citadel to guard attention like fortified gold, steadily unwavering.\n\nAnchor daily micro\u2011wins, frame missed habits as losses, and make each repetition scarce, prompting the brain to chase exponential returns subconsciously instinctively.\n\nTonight, list three micro\u2011habits, assign them a 30\u2011day compound target, and commit publicly; watch momentum eclipse intention today boldly now.",
+      "chars": 801,
+      "words": 106,
+      "rag_sources": [
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/bhagavad_gita_wisdom.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/psychology_of_influence.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/psychology_of_influence.md"
+      ]
+    },
+    "director": {
+      "verdict": "APPROVE",
+      "score": 3,
+      "hook": "About the power of compound habits",
+      "angle": "Direct and practical",
+      "images": [
+        "Scene 1: the power of compound habits",
+        "Scene 2: the power of compound habits"
+      ],
+      "style": "clean, professional",
+      "title_suggestion": "The Power Of Compound Habits Explained",
+      "tags": [
+        "the power of compound habits",
+        "motivation"
+      ],
+      "reasoning": "Auto-approved (LLM error: RateLimitError). Topic: the power of compound habits",
+      "changes_if_revise": ""
+    },
+    "mpt_video": {
+      "status": "success",
+      "task_id": "4e624832-dcce-4929-9ce7-708fc5bb9d3a",
+      "result": {
+        "videos": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/4e624832-dcce-4929-9ce7-708fc5bb9d3a/final-1.mp4"
+        ],
+        "combined_videos": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/4e624832-dcce-4929-9ce7-708fc5bb9d3a/combined-1.mp4"
+        ],
+        "script": "Imagine turning every tiny habit into a relentless profit engine, as if your future self were already wealthier and wiser, strategically today.\n\nPremeditate worst\u2011case outcomes, then act with virtue, because disciplined focus converts obstacles into compound growth opportunities for relentless entrepreneurs daily purposefully.\n\nPerform your own strategic duty imperfectly, yet consistently, allowing the mind\u2019s inner citadel to guard attention like fortified gold, steadily unwavering.\n\nAnchor daily micro\u2011wins, frame missed habits as losses, and make each repetition scarce, prompting the brain to chase exponential returns subconsciously instinctively.\n\nTonight, list three micro\u2011habits, assign them a 30\u2011day compound target, and commit publicly; watch momentum eclipse intention today boldly now.",
+        "terms": [
+          "micro habit success",
+          "micro habit discipline",
+          "micro habit growth",
+          "micro habit productivity",
+          "micro habit entrepreneurship"
+        ],
+        "audio_file": "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/4e624832-dcce-4929-9ce7-708fc5bb9d3a/audio.mp3",
+        "audio_duration": 50,
+        "subtitle_path": "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/4e624832-dcce-4929-9ce7-708fc5bb9d3a/subtitle.srt",
+        "materials": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-4536271e4e0938edac75e6958f32c28e.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-51a54408e36e2d4b5d9bf994f3321c0e.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-974a8d3d076ce7e4710ce1dbddb429fc.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-2bac64394236688ff244b749fc5489e6.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-0718e408e9f816cc01c49236cc2c5536.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-8fc4b481123f854be68332b9a163a07f.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-22499d83877841e984dc0e9509cbb694.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-f2625d0526ac2691bab9b749844eeea0.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-f805da7232159507bd3335e8f253eb1b.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-6a127b9a5dd2b032cc7a407e359a0930.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-f491613c828866457538cf6442f3da91.mp4"
+        ],
+        "cross_post_state": null,
+        "cross_post_results": null,
+        "cross_post_error": null,
+        "cross_post_owner": null,
+        "warnings": null
+      }
+    },
+    "video": {
+      "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_091223_mpt.mp4",
+      "mpt_task_id": "4e624832-dcce-4929-9ce7-708fc5bb9d3a",
+      "video_size": 32131650,
+      "duration": 50.4
+    },
+    "quality_check": {
+      "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_091223_mpt.mp4",
+      "checks": {
+        "file_size": {
+          "value": 32131650,
+          "unit": "bytes",
+          "pass": true
+        },
+        "duration": {
+          "value": 50.4,
+          "unit": "seconds",
+          "pass": true
+        },
+        "resolution": {
+          "value": "1080x1920",
+          "pass": true
+        },
+        "video_bitrate": {
+          "value": 4897879,
+          "unit": "bps",
+          "pass": true
+        },
+        "audio_stream": {
+          "pass": true
+        }
+      },
+      "passed": true,
+      "errors": [],
+      "duration": 50.4,
+      "file_size_mb": 30.64
+    },
+    "upload_meta": {
+      "youtube": {
+        "title": "How to Master The Power Of Compound Habits | Strategy & Wisdom",
+        "description": "Deep insights on 'the power of compound habits' from a wealthy polymath perspective.\n\nTopics covered:\n- Key strategies for the power of compound habits\n- Real-world applications\n- Actionable advice you can use today\n\n#Motivation #SelfImprovement #Wisdom #thepowerofcompoundhabits",
+        "tags": [
+          "the power of compound habits",
+          "motivation",
+          "self improvement",
+          "business",
+          "wisdom",
+          "success"
+        ],
+        "category": "Education",
+        "thumbnail_text": [
+          "The",
+          "habits"
+        ]
+      },
+      "social": {
+        "instagram": "You don't need luck for the power of compound habits. You need strategy. Here's what I've learned after decades of observation...",
+        "twitter": [
+          "The secret to mastering the power of compound habits? Most people overcomplicate it.",
+          "Here's the simple truth: the power of compound habits isn't about talent \u2014 it's about consistency.",
+          "Stop making excuses. Start executing. #Motivation"
+        ],
+        "tiktok": "POV: You finally understand the power of compound habits \ud83e\udde0\u26a1\ufe0f #motivation #wisdom #growth",
+        "linkedin": "After years of building businesses and studying human nature, here's my take on the power of compound habits."
+      },
+      "seo": {
+        "primary_keyword": "the power of compound habits",
+        "secondary_keywords": [
+          "the power of compound habits motivation",
+          "self improvement",
+          "wisdom"
+        ],
+        "best_time": "6-9 AM or 7-10 PM local time"
+      }
+    },
+    "upload": {
+      "status": "uploaded",
+      "video_id": "nE3UW1YevMU",
+      "url": "https://youtu.be/nE3UW1YevMU"
+    },
+    "captions_path": "output/captions/captions_20260908_091934.md",
+    "social_posts": "output/posts/posts_20260908_091936.md"
+  },
+  "status": "complete",
+  "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_091223_mpt.mp4"
+}

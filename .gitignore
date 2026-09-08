@@ -1,0 +1,40 @@
+# Nested git repos
+assets/audio/VibeVoice
+assets/audio/vibevoice.cpp
+tools/MoneyPrinterTurbo
+tools/dramaclaw
+tools/editor
+
+# Large media files
+*.mp4
+*.mp3
+*.wav
+*.ogg
+*.aac
+*.flac
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.venv
+venv/
+
+# Env files
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+tmp/
+*.tmp
+.cache/
+
+# Large model files
+*.onnx
+*.pth
+*.pt
+*.pkl

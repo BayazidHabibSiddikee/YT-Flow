@@ -1,0 +1,123 @@
+{
+  "run_id": "izuku_midoriya_20260907_200428",
+  "topic": "how to start a business with no money",
+  "niche": "izuku_midoriya",
+  "stages": {
+    "content": {
+      "text": "You don\u2019t need capital to start a business; you need a skill that solves a painful problem. \n\nSell the solution before you build it, and let your first customer fund your growth.",
+      "sources": [
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/psychology_of_influence.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/psychology_of_money.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/marketing_strategy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/marketing_strategy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/psychology_of_money.md"
+      ]
+    },
+    "director": {
+      "verdict": "REVISE",
+      "score": 7,
+      "hook": "You don't need a Quirk\u2014or a single dollar\u2014to build an empire.",
+      "angle": "Lean heavily into Deku's 'Quirkless to Top Hero' storyline as a direct metaphor for starting a business with zero capital. Treat business strategy like Deku's hero analysis notebooks.",
+      "images": [
+        "Fast-paced anime edit of Deku frantically writing in his notebook with neon glow text overlays",
+        "Split-screen transition between Deku practicing Detroit Smash and a sleek digital product mockup showing $0 to $1,000 sales graph",
+        "High-contrast shot of Deku looking determined with bold, animated kinetic typography flashing key business steps"
+      ],
+      "style": "High-octane anime edit (MHA style), fast pacing, dark mode aesthetic, aggressive impact text, dramatic orchestral/synth music build-up",
+      "title_suggestion": "How To Build an Empire With $0 (The Deku Strategy)",
+      "tags": [
+        "izukumidoriya",
+        "myheroacademia",
+        "businessmindset",
+        "zerocapital",
+        "animeentrepreneur"
+      ],
+      "reasoning": "The core concept is a goldmine\u2014Deku's journey from 'quirkless' to 'hero' is the ultimate metaphor for starting a business with $0. However, the current draft text sounds like a generic LinkedIn post. It lacks character voice, emotional weight, and anime flare. Injecting Deku's personality and terminology will double retention and shares among Gen-Z and anime fans.",
+      "changes_if_revise": "Rewrite the script using Deku's persona. Replace generic buzzwords with anime-parallel phrasing (e.g., compare cash to a Quirk, frame problem-solving as 'analyzing your opponent'). Make the hook immediately connect Deku's struggle to zero-budget entrepreneurship."
+    },
+    "video": {
+      "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260907_200428.mp4",
+      "audio_path": "/home/sword/Documents/socio_business/pipeline/collection/audio/izuku_midoriya_20260907_200428.wav",
+      "images": [
+        "output/images/izuku_midoriya_20260907_200428_scene_0.jpg",
+        "output/images/izuku_midoriya_20260907_200428_scene_1.jpg",
+        "output/images/izuku_midoriya_20260907_200428_scene_2.jpg"
+      ]
+    },
+    "quality": {
+      "overall_score": 7,
+      "verdict": "EDIT_NEEDED",
+      "scores": {
+        "audio": 7,
+        "visuals": 6,
+        "subtitles": 8,
+        "content": 6,
+        "virality": 7
+      },
+      "issues": [
+        "Script lacks niche integration \u2014 no references to Izuku Midoriya, 'Quirks', or My Hero Academia themes.",
+        "Video duration is very short (~10-12s) and lacks a strong call-to-action at the ending.",
+        "Disconnect between generic financial advice and character-themed audience expectations."
+      ],
+      "suggestions": [
+        "Incorporate Midoriya's character voice and metaphor (e.g., 'Just like analyzing hero Quirks, focus on finding a skill that solves a real problem').",
+        "Add a clear engagement prompt at the end (e.g., 'What skill are you building first? Drop a comment!').",
+        "Ensure background visuals explicitly showcase Midoriya's analytical/strategic moments matching the audio."
+      ],
+      "title_suggestion": "How Deku Would Start a $0 Business (No Quirk Needed) \ud83e\udd66",
+      "thumbnail_note": "Izuku Midoriya writing intensely in his 'Hero Analysis' notebook with bold text overlay: '$0 BUSINESS PLAN'",
+      "reasoning": "The core business message is strong and punchy for short-form media, but it misses the target audience appeal by failing to lean into the Izuku Midoriya persona. Adapting the script to reflect the anime niche and adding a proper CTA will elevate retention and engagement."
+    },
+    "upload_meta": {
+      "youtube": {
+        "title": "How to Start a Business with NO MONEY (The Deku Strategy) #Shorts",
+        "description": "Just like starting Quirkless, you don't need massive capital to build your legacy. All you need is a high-value skill that solves a real, painful problem. Learn how to pre-sell your solution, validate your business idea before spending a dime, and let your very first client fund your growth.\n\nMaster the ultimate bootstrapping strategy for beginner entrepreneurs. Turn your skills into a profitable business without taking on debt or needing initial investment.\n\n#Entrepreneurship #StartABusiness #DekuMindset #Shorts #BusinessTips #Bootstrapping",
+        "tags": [
+          "how to start a business with no money",
+          "start a business with 0 dollars",
+          "deku mindset",
+          "izuku midoriya motivation",
+          "how to start a business",
+          "bootstrapping a startup",
+          "make money online",
+          "no money business ideas",
+          "entrepreneur motivation",
+          "business for beginners",
+          "side hustle",
+          "presell strategy",
+          "business tips shorts",
+          "anime motivation",
+          "zero capital business"
+        ],
+        "category": "Education",
+        "thumbnail_text": [
+          "$0 CAPITAL?",
+          "DO THIS FIRST!"
+        ]
+      },
+      "social": {
+        "instagram": "You don't need a massive quirk (or massive capital) to change your life. \ud83e\udd66\u26a1\ufe0f\n\nStarting a business with $0 isn't about having capital\u2014it's about finding a painful problem and offering the solution. Sell it BEFORE you build it. Let your first customer fund your growth.\n\nSave this for when you're ready to start! \ud83d\udccc\n.\n.\n#businessmotivation #izukumidoriya #deku #entrepreneurship #startabusiness #bootstrapping #sidehustle #zerocapital #mindsetshift",
+        "twitter": [
+          "1/ You don\u2019t need $10,000 to start a business. You need a skill that solves a painful problem. \ud83e\uddf5\ud83d\udc47",
+          "2/ Stop waiting for funding or savings. Sell the solution BEFORE you build it, and let your very first customer fund your growth. That\u2019s how you go from zero to hero. #BusinessTips #Entrepreneurship"
+        ],
+        "tiktok": "Starting with $0? Here is the exact strategy to go from zero to hero in business. \ud83e\udde0\u26a1\ufe0f #business #entrepreneur #deku #anime #motivation #sidehustle #lifehack",
+        "linkedin": "In business, waiting for capital is often just an excuse for inaction.\n\nJust like Izuku Midoriya starting from ground zero, your greatest asset isn't capital\u2014it's strategic analysis and skill execution.\n\nTo boot-strap a company with $0:\n1. Identify a high-pain problem.\n2. Master or package the skill that solves it.\n3. Pre-sell the solution before building the product.\n\nBy letting your first clients finance your product development, you eliminate financial risk and achieve immediate product-market fit.\n\nHow did you fund your very first venture?"
+      },
+      "seo": {
+        "primary_keyword": "how to start a business with no money",
+        "secondary_keywords": [
+          "bootstrapping a startup",
+          "deku business motivation",
+          "business zero capital",
+          "start business for beginners"
+        ],
+        "best_time": "3:00 PM - 5:00 PM EST (Peak engagement for anime & entrepreneurship audience)"
+      }
+    },
+    "captions_path": "output/captions/captions_20260907_200934.md",
+    "social_posts": "output/posts/posts_20260907_201007.md"
+  },
+  "status": "complete",
+  "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260907_200428.mp4"
+}

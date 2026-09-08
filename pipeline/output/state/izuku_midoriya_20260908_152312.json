@@ -1,0 +1,130 @@
+{
+  "run_id": "izuku_midoriya_20260908_152312",
+  "topic": "the psychology of expensive decisions",
+  "niche": "izuku_midoriya",
+  "stages": {
+    "script": {
+      "text": "Brain Traps & Regret \u2013 The first time I watched my investment crumble, the bitter coffee at dawn tasted like ash, and the echo of my own hesitation screamed louder than any villain\u2019s roar.\n\nThe Anchor Trap \u2013 I once let a rival\u2019s opening bid anchor my mind, like All Might\u2019s shadow stretching across the city, and every subsequent offer swayed beneath that impossible silhouette, until I finally cut\n\nLoss Aversion \u2013 When the market dipped, my chest tightened as if a storm pressed against the roof of UA\u2019s gym, and I clutched at safety, forgetting that sometimes losing a foothold reveals\n\nSystem 1 Thinking \u2013 My reflex to flash a grin like Katsuki\u2019s when a deal appeared felt automatic, a sprinting sprint of dopamine, yet the slow, deliberate System 2 was buried under the\n\nAvailability Heuristic \u2013 After the news of a sudden crash, the scent of rain on concrete reminded me of every disaster I\u2019d seen on TV, and suddenly every investment felt as fragile as\n\nConfirmation Bias \u2013 I caught myself scrolling through reports that sang my strategy\u2019s praises, like a choir echoing in a hall, while dismissing the discordant notes; I\u2019m not sure I ever fully escaped that echo.\n\nFraming Effect & Sunk Cost \u2013 When a partner framed a loss as \u201csaving the future,\u201d the weight of silence in the boardroom grew heavier than any debt, yet the money already spent whispered, \u201cdon\u2019t\n\nFinal Reflection \u2013 Now, as night drapes over the city and the neon flickers like fireflies trapped in glass, I wonder: will the next decision be a bridge built from humility, or another cracked",
+      "chars": 1199,
+      "words": 200,
+      "rag_sources": [
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/psychology_of_influence.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/psychology_of_money.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/psychology_of_influence.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/psychology_of_money.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/marketing_strategy.md"
+      ]
+    },
+    "director": {
+      "verdict": "REVISE",
+      "score": 6,
+      "hook": "Why do the smartest people make the worst decisions when the price tag goes up? It turns out your brain is wired to betray you under pressure.",
+      "angle": "Frame this as Deku's deep-dive notebook analysis on human decision-making\u2014connecting high-stakes anime choices with real-world psychological biases like Anchoring and Loss Aversion.",
+      "images": [
+        "Cinematic moody animation of Deku writing intensely in 'Analysis for the Future' notebook under desk light, rain outside window",
+        "Stylized visual graphic showing brain pathways lighting up (System 1 vs System 2) overlaid on dark anime cityscape",
+        "Split-screen dramatic shot of characters making high-stakes trade-offs with glowing red/blue psychological bias labels"
+      ],
+      "style": "Dark Anime Noir / Atmospheric Essay Style (think Wisecrack meets lofi anime edits, moody lighting, fast-paced graphic inserts)",
+      "title_suggestion": "The Dark Psychology of Ruinous Decisions (Why You Overthink Money)",
+      "tags": [
+        "izuku midoriya",
+        "psychology",
+        "decision making",
+        "anime video essay",
+        "behavioural economics"
+      ],
+      "reasoning": "The script reads like a beautiful noir novel, but YouTube audiences will bounce in the first 5 seconds. The poetic opening is too slow for viewer retention. Furthermore, mixing random names (Raj, Sarah) with MHA characters (Mei, Jiro) weakens the niche appeal. If this is targeting the Izuku Midoriya niche, it needs Deku's distinct analytical voice and seamless in-universe flavor.",
+      "changes_if_revise": "1. Replace the slow poetic opening with an immediate punchy hook about brain traps and regret. 2. Remove non-anime names (Raj, Sarah, Lena) and either ground everything completely in MHA lore or keep it purely character-narrated about human psychology. 3. Structure the script into explicit psychological chapters (e.g., The Anchor Trap, Loss Aversion, System 1 Thinking) to increase watch time and pacing."
+    },
+    "mpt_video": {
+      "status": "success",
+      "task_id": "db626526-6ed2-4d01-a4c1-889fb88958ff",
+      "result": {
+        "videos": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/db626526-6ed2-4d01-a4c1-889fb88958ff/final-1.mp4"
+        ],
+        "combined_videos": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/db626526-6ed2-4d01-a4c1-889fb88958ff/combined-1.mp4"
+        ],
+        "script": "Brain Traps & Regret \u2013 The first time I watched my investment crumble, the bitter coffee at dawn tasted like ash, and the echo of my own hesitation screamed louder than any villain\u2019s roar.\n\nThe Anchor Trap \u2013 I once let a rival\u2019s opening bid anchor my mind, like All Might\u2019s shadow stretching across the city, and every subsequent offer swayed beneath that impossible silhouette, until I finally cut\n\nLoss Aversion \u2013 When the market dipped, my chest tightened as if a storm pressed against the roof of UA\u2019s gym, and I clutched at safety, forgetting that sometimes losing a foothold reveals\n\nSystem 1 Thinking \u2013 My reflex to flash a grin like Katsuki\u2019s when a deal appeared felt automatic, a sprinting sprint of dopamine, yet the slow, deliberate System 2 was buried under the\n\nAvailability Heuristic \u2013 After the news of a sudden crash, the scent of rain on concrete reminded me of every disaster I\u2019d seen on TV, and suddenly every investment felt as fragile as\n\nConfirmation Bias \u2013 I caught myself scrolling through reports that sang my strategy\u2019s praises, like a choir echoing in a hall, while dismissing the discordant notes; I\u2019m not sure I ever fully escaped that echo.\n\nFraming Effect & Sunk Cost \u2013 When a partner framed a loss as \u201csaving the future,\u201d the weight of silence in the boardroom grew heavier than any debt, yet the money already spent whispered, \u201cdon\u2019t\n\nFinal Reflection \u2013 Now, as night drapes over the city and the neon flickers like fireflies trapped in glass, I wonder: will the next decision be a bridge built from humility, or another cracked",
+        "terms": [
+          "investment bias",
+          "investment regret",
+          "investment psychology",
+          "investment decision",
+          "investment trap"
+        ],
+        "audio_file": "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/db626526-6ed2-4d01-a4c1-889fb88958ff/audio.mp3",
+        "audio_duration": 94,
+        "subtitle_path": "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/db626526-6ed2-4d01-a4c1-889fb88958ff/subtitle.srt",
+        "materials": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-546743b8c00c6002a63e20ad72ed4b3e.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-548c835b3d1f9cddd6b4ba10ff5da7b6.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-45934d81c7d697dad09021562a8a1ec1.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-7edd5f11ae3871be1f5790654c46739c.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-2cb856d36c26c15a761d977711057b3d.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-f45c0df6c707653ea52a9a19d0a555a0.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-af076aa03659938fe6b44df06d0408f4.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-e47e369b5efe009c447b87cabe33b3e9.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-b260a98561d0beb100900868d3cc15e4.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-fb98ea40b1c8f69750979c6f18dfcf3f.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-46b8c5636df26e62df304f0955c56872.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-0d5ff977b8e657779867c4f04af2b687.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-e255616cba4deac4ed80c785e0f93126.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-ce97ebede5186e47bc168b5bda582a25.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-8081849b7a746d9fa06aef7991907972.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-34ba3707c92ddd337c71e65c8414affd.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-f0aedd28e5d3452eddb8e169c5744b81.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-51aa45c946bb94b29cc84a67ce39c116.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-196a9403c020ec635e36f2efa293df0f.mp4"
+        ],
+        "cross_post_state": null,
+        "cross_post_results": null,
+        "cross_post_error": null,
+        "cross_post_owner": null,
+        "warnings": null
+      }
+    },
+    "video": {
+      "video_path": "/home/sword/Documents/socio_business/pipeline/output/longs/izuku_midoriya_20260908_152312_mpt.mp4",
+      "mpt_task_id": "db626526-6ed2-4d01-a4c1-889fb88958ff",
+      "video_size": 30460017,
+      "duration": 94.4
+    },
+    "quality_check": {
+      "video_path": "/home/sword/Documents/socio_business/pipeline/output/longs/izuku_midoriya_20260908_152312_mpt.mp4",
+      "checks": {
+        "file_size": {
+          "value": 30460017,
+          "unit": "bytes",
+          "pass": true
+        },
+        "duration": {
+          "value": 94.4,
+          "unit": "seconds",
+          "pass": true
+        },
+        "resolution": {
+          "value": "1920x1080",
+          "pass": false
+        },
+        "video_bitrate": {
+          "value": 2379380,
+          "unit": "bps",
+          "pass": true
+        },
+        "audio_stream": {
+          "pass": true
+        }
+      },
+      "passed": false,
+      "errors": [
+        "Resolution 1920x1080 < 720x1280"
+      ],
+      "duration": 94.4,
+      "file_size_mb": 29.05
+    }
+  },
+  "status": "quality_failed"
+}

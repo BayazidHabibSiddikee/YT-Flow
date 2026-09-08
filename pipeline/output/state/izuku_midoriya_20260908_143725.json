@@ -1,0 +1,176 @@
+{
+  "run_id": "izuku_midoriya_20260908_143725",
+  "topic": "why rich people stay quiet",
+  "niche": "izuku_midoriya",
+  "stages": {
+    "script": {
+      "text": "Loud broke people shout, their words like fireworks; silent wealthy people whisper, their silence a deeper roar that shatters expectations.\n\nA glossy sedan draws every eye, a bull's horn glued to your neck; the richer hide assets, become invisible,\n\nThe money can buy a yacht, but each deck is a cage; I taste salt, hear gulls, yet time slips like sand\n\nThe glittering party feels like a stage of mirrors; smiles crack like ice under heat, and loyalty evaporates, leaving only the\n\nAt 2 am I sit alone, the city humming beneath a rain\u2011wet ceiling, wondering if wealth's true sound is the quiet",
+      "chars": 646,
+      "words": 110,
+      "rag_sources": [
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/psychology_of_money.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/psychology_of_money.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/psychology_of_influence.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/marketing_strategy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/48_laws_of_power.md"
+      ]
+    },
+    "director": {
+      "verdict": "REVISE",
+      "score": 4,
+      "hook": "Poor people show off wealth to look rich. Truly rich people stay invisible. Here is the dark truth why...",
+      "angle": "Dark psychology and stealth wealth mindset layered over cinematic anime/Deku visuals for maximum edge and retention.",
+      "images": [
+        "Cinematic moody visual of Izuku Midoriya standing in the rain, heavy shadows, intense expression.",
+        "Fast side-by-side transition showing loud flashy sports cars vs a silent, understated billionaire in plain clothes.",
+        "High-contrast anime edit of Deku stepping into the shadows with bold kinetic typography overlays reading: 'PRIVACY IS POWER'."
+      ],
+      "style": "Dark aesthetic anime edit, high-contrast grading, kinetic typography, heavy phonk or dramatic ambient synth audio.",
+      "title_suggestion": "Why Real Billionaires Stay Invisible \ud83e\udd2b #motivation #izuku #shorts",
+      "tags": [
+        "izukumidoriya",
+        "stealthwealth",
+        "mindset",
+        "darkpsychology",
+        "animeedit"
+      ],
+      "reasoning": "The core topic ('why rich people stay quiet') is a proven viral formula in the self-improvement and anime edit space. However, your draft text is completely broken: sentences cut off mid-thought ('sipped', 'covet', 'but'), the intro is too slow and poetic for a 60-second Short, and random non-anime characters ('Sarah', 'Raj') confuse the audience in an Izuku Midoriya niche context.",
+      "changes_if_revise": "1. Scrape the current fragmented script entirely. 2. Remove non-anime character names ('Raj', 'Sarah'). 3. Add an immediate 3-second hook calling out the difference between loud broke people and silent wealthy people. 4. State 3 concise, punchy reasons why stealth wealth wins (Target on your back, loss of freedom, fake friends). 5. Keep sentence structures sharp and short for fast text-to-speech or voiceover pacing."
+    },
+    "mpt_video": {
+      "status": "success",
+      "task_id": "407ac386-c9d1-4fba-aef0-52ea6fc29873",
+      "result": {
+        "videos": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/407ac386-c9d1-4fba-aef0-52ea6fc29873/final-1.mp4"
+        ],
+        "combined_videos": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/407ac386-c9d1-4fba-aef0-52ea6fc29873/combined-1.mp4"
+        ],
+        "script": "Loud broke people shout, their words like fireworks; silent wealthy people whisper, their silence a deeper roar that shatters expectations.\n\nA glossy sedan draws every eye, a bull's horn glued to your neck; the richer hide assets, become invisible,\n\nThe money can buy a yacht, but each deck is a cage; I taste salt, hear gulls, yet time slips like sand\n\nThe glittering party feels like a stage of mirrors; smiles crack like ice under heat, and loyalty evaporates, leaving only the\n\nAt 2 am I sit alone, the city humming beneath a rain\u2011wet ceiling, wondering if wealth's true sound is the quiet",
+        "terms": [
+          "wealth disparity",
+          "wealth silence",
+          "wealth yacht",
+          "wealth city night",
+          "wealth reflection"
+        ],
+        "audio_file": "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/407ac386-c9d1-4fba-aef0-52ea6fc29873/audio.mp3",
+        "audio_duration": 40,
+        "subtitle_path": "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/407ac386-c9d1-4fba-aef0-52ea6fc29873/subtitle.srt",
+        "materials": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-a372b1cf52d57899fbc2e1143f70973a.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-34d8c908090e6967abc13bbe120465a3.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-3d6cbd4e7793ab5efa12ee9a8c856116.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-067c60ac885b0e1970afe1fe73bc9e08.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-accb1dfa710d0f7f2caaa8c035cf29e1.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-20bf19a114065703a55e07089bf7c097.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-381149b2a2d1f2c0a9f4e4c437456012.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-148fd58d31d22414b43ca1e401d616c5.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-2894cc87e3ed0396547e85232e554dab.mp4"
+        ],
+        "cross_post_state": null,
+        "cross_post_results": null,
+        "cross_post_error": null,
+        "cross_post_owner": null,
+        "warnings": null
+      }
+    },
+    "video": {
+      "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_143725_mpt.mp4",
+      "mpt_task_id": "407ac386-c9d1-4fba-aef0-52ea6fc29873",
+      "video_size": 23217843,
+      "duration": 40.43
+    },
+    "quality_check": {
+      "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_143725_mpt.mp4",
+      "checks": {
+        "file_size": {
+          "value": 23217843,
+          "unit": "bytes",
+          "pass": true
+        },
+        "duration": {
+          "value": 40.43,
+          "unit": "seconds",
+          "pass": true
+        },
+        "resolution": {
+          "value": "1080x1920",
+          "pass": true
+        },
+        "video_bitrate": {
+          "value": 4395600,
+          "unit": "bps",
+          "pass": true
+        },
+        "audio_stream": {
+          "pass": true
+        }
+      },
+      "passed": true,
+      "errors": [],
+      "duration": 40.43,
+      "file_size_mb": 22.14
+    },
+    "upload_meta": {
+      "youtube": {
+        "title": "Why Rich People Stay Quiet... \ud83e\udd2b | Izuku Midoriya Mindset",
+        "description": "Why do the truly wealthy stay quiet while the broke make the most noise? In this deep reflection inspired by the Izuku Midoriya (Deku) mindset, we break down the reality of stealth wealth, golden cages, and the profound silence of true success.\n\nLoud money shouts, but real wealth operates in absolute quiet. When loyalty evaporates under heat, only the quiet noise of true independence remains. Watch until the end to understand the 2 AM reality of wealth.\n\n#IzukuMidoriya #Mindset #AnimeMotivation #Wealth #StealthWealth #Shorts #Deku",
+        "tags": [
+          "izuku midoriya",
+          "deku mindset",
+          "why rich people stay quiet",
+          "stealth wealth",
+          "anime motivation",
+          "deku edit",
+          "wealth mindset",
+          "mha edit",
+          "deku wealth",
+          "loud broke people",
+          "silent wealth",
+          "anime status",
+          "motivation shorts",
+          "my hero academia",
+          "deku motivation",
+          "deep mindset quotes"
+        ],
+        "category": "Entertainment",
+        "thumbnail_text": [
+          "SILENT WEALTH",
+          "The 2 AM Reality"
+        ]
+      },
+      "social": {
+        "instagram": "Loud money shouts. Silent wealth whispers. \ud83e\udd2b\u2728\n\nWhen you build real value, you don't need a bullhorn. True strength operates in silence while others fight for attention on a stage of mirrors.\n\nDrop a \ud83d\udda4 if you prefer quiet moves over loud talk.\n.\n.\n#izukumidoriya #deku #animemotivation #mindsetmatters #stealthwealth #wealthmindset #mha #animeedits #silentmoves #deepquotes",
+        "twitter": [
+          "Loud broke people shout, their words like fireworks; silent wealthy people whisper, their silence a deeper roar that shatters expectations. \ud83e\uddf5",
+          "Money can buy the yacht, but every deck becomes a cage if you lose your peace. True wealth isn't about being seen\u2014it's the silence at 2 AM when the noise fades. \ud83c\udf27\ufe0f",
+          "Move in silence. Let your discipline be the only statement you make. #IzukuMidoriya #Mindset #AnimeMotivation"
+        ],
+        "tiktok": "Why true wealth is silent... \ud83e\udd2b | Deku Mindset #izukumidoriya #deku #animemotivation #wealth #mindset #stealthwealth #fyp #viral",
+        "linkedin": "In a world obsessed with loud self-promotion, there is immense strategic power in quiet execution and 'stealth wealth.'\n\nTrue success rarely requires a bullhorn. When you build substance over spectacle, your results create an impact far deeper than any superficial noise.\n\nKey takeaways from this principle:\n1. Attention is expensive; privacy is luxury.\n2. True leverage operates behind the scenes.\n3. Focus on building real equity, not optical success.\n\nHow do you balance visibility with quiet execution in your industry?"
+      },
+      "seo": {
+        "primary_keyword": "why rich people stay quiet",
+        "secondary_keywords": [
+          "izuku midoriya mindset",
+          "stealth wealth anime edit",
+          "deku motivation",
+          "silent wealth vs loud broke",
+          "anime financial mindset"
+        ],
+        "best_time": "4:00 PM - 7:00 PM EST (Peak engagement window for anime and mindset short-form content)"
+      }
+    },
+    "upload": {
+      "status": "uploaded",
+      "video_id": "gZoApkmaLs4",
+      "url": "https://youtu.be/gZoApkmaLs4"
+    },
+    "captions_path": "output/captions/captions_20260908_144517.md",
+    "social_posts": "output/posts/posts_20260908_144537.md"
+  },
+  "status": "complete",
+  "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_143725_mpt.mp4"
+}

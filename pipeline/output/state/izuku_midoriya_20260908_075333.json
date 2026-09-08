@@ -1,0 +1,132 @@
+{
+  "run_id": "izuku_midoriya_20260908_075333",
+  "topic": "stopping procrastination forever",
+  "niche": "izuku_midoriya",
+  "stages": {
+    "script": {
+      "text": "Imagine crushing every deadline tomorrow, because you've already accepted failure's shadow and turned it into unstoppable momentum as your daily practice.\n\nFocus only on actions you control\u2014thoughts, responses, effort\u2014and discard distractions like currency\u2011chasing vanity that erodes true productivity for the team and\n\nWhen fatigue whispers 'stop,' remember you\u2019re only forty percent done; retrieve past victories from your mental cookie jar and stare honestly at\n\nLove every obstacle as fate\u2019s fuel, converting setbacks into growth while recognizing true wealth lies in saved time, not flashing possessions.\n\nEach morning, visualize worst\u2011case outcomes for ten minutes, then schedule a single, uninterrupted five\u2011minute focus sprint to dominate today\u2019s priorities.",
+      "chars": 766,
+      "words": 105,
+      "rag_sources": [
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/psychology_of_money.md"
+      ]
+    },
+    "director": {
+      "verdict": "APPROVE",
+      "score": 7,
+      "hook": "A compelling hook about stopping procrastination forever",
+      "angle": "Focus on practical wisdom with character voice",
+      "images": [
+        "Scene 1: stopping procrastination forever",
+        "Scene 2: stopping procrastination forever context",
+        "Scene 3: stopping procrastination forever action"
+      ],
+      "style": "cinematic, dramatic lighting, 4k quality",
+      "title_suggestion": "How to Master Stopping Procrastination Forever | The Strategic Approach",
+      "tags": [
+        "stopping procrastination forever",
+        "motivation",
+        "self-improvement",
+        "wisdom"
+      ],
+      "reasoning": "Auto-approved due to LLM unavailability. Topic: stopping procrastination forever",
+      "changes_if_revise": ""
+    },
+    "mpt_video": {
+      "status": "success",
+      "task_id": "f2b9502c-6a48-417a-879d-2ef19f58cdaa",
+      "result": {
+        "videos": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/f2b9502c-6a48-417a-879d-2ef19f58cdaa/final-1.mp4"
+        ],
+        "combined_videos": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/f2b9502c-6a48-417a-879d-2ef19f58cdaa/combined-1.mp4"
+        ],
+        "script": "Imagine crushing every deadline tomorrow, because you've already accepted failure's shadow and turned it into unstoppable momentum as your daily practice.\n\nFocus only on actions you control\u2014thoughts, responses, effort\u2014and discard distractions like currency\u2011chasing vanity that erodes true productivity for the team and\n\nWhen fatigue whispers 'stop,' remember you\u2019re only forty percent done; retrieve past victories from your mental cookie jar and stare honestly at\n\nLove every obstacle as fate\u2019s fuel, converting setbacks into growth while recognizing true wealth lies in saved time, not flashing possessions.\n\nEach morning, visualize worst\u2011case outcomes for ten minutes, then schedule a single, uninterrupted five\u2011minute focus sprint to dominate today\u2019s priorities.",
+        "terms": [
+          "productivity focus",
+          "productivity motivation",
+          "productivity success",
+          "productivity teamwork",
+          "productivity mindset"
+        ],
+        "audio_file": "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/f2b9502c-6a48-417a-879d-2ef19f58cdaa/audio.mp3",
+        "audio_duration": 48,
+        "subtitle_path": "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/f2b9502c-6a48-417a-879d-2ef19f58cdaa/subtitle.srt",
+        "materials": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-608e92d026683981199c689b897e5a31.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-c3dc4ff2f98297c32ca902f0b2ca26d2.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-28f060185701c3377c3bc9994934fb43.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-acc141b193ac8f5df0aaea4ad722f353.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-becd8e5d608289e491385ed465e73f9c.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-cb86663f2c6409e254d976ba5f0e2925.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-aaf37e2f00e197ad91a0bf5b095a7488.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-1f4675699269dfd66405fccd724f2c7a.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-8c7323ca24bf1d3b437a143da5bad8c4.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-8803f91fed72d102520910ebdf293416.mp4"
+        ],
+        "cross_post_state": null,
+        "cross_post_results": null,
+        "cross_post_error": null,
+        "cross_post_owner": null,
+        "warnings": null
+      }
+    },
+    "video": {
+      "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_075333_mpt.mp4",
+      "mpt_task_id": "f2b9502c-6a48-417a-879d-2ef19f58cdaa",
+      "video_size": 14783482,
+      "duration": 48.43
+    },
+    "upload_meta": {
+      "youtube": {
+        "title": "How to Master Stopping Procrastination Forever | Strategy & Wisdom",
+        "description": "Deep insights on 'stopping procrastination forever' from a wealthy polymath perspective.\n\nTopics covered:\n- Key strategies for stopping procrastination forever\n- Real-world applications\n- Actionable advice you can use today\n\n#Motivation #SelfImprovement #Wisdom #stoppingprocrastinationforever",
+        "tags": [
+          "stopping procrastination forever",
+          "motivation",
+          "self improvement",
+          "business",
+          "wisdom",
+          "success"
+        ],
+        "category": "Education",
+        "thumbnail_text": [
+          "Stopping",
+          "forever"
+        ]
+      },
+      "social": {
+        "instagram": "You don't need luck for stopping procrastination forever. You need strategy. Here's what I've learned after decades of observation...",
+        "twitter": [
+          "The secret to mastering stopping procrastination forever? Most people overcomplicate it.",
+          "Here's the simple truth: stopping procrastination forever isn't about talent \u2014 it's about consistency.",
+          "Stop making excuses. Start executing. #Motivation"
+        ],
+        "tiktok": "POV: You finally understand stopping procrastination forever \ud83e\udde0\u26a1\ufe0f #motivation #wisdom #growth",
+        "linkedin": "After years of building businesses and studying human nature, here's my take on stopping procrastination forever."
+      },
+      "seo": {
+        "primary_keyword": "stopping procrastination forever",
+        "secondary_keywords": [
+          "stopping procrastination forever motivation",
+          "self improvement",
+          "wisdom"
+        ],
+        "best_time": "6-9 AM or 7-10 PM local time"
+      }
+    },
+    "upload": {
+      "status": "saved",
+      "meta_path": "output/uploads/upload_20260908_075959.json"
+    },
+    "captions_path": "output/captions/captions_20260908_075959.md",
+    "social_posts": "output/posts/posts_20260908_080001.md"
+  },
+  "status": "complete",
+  "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_075333_mpt.mp4"
+}

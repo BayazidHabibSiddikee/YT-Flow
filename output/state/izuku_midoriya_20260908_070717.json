@@ -1,0 +1,128 @@
+{
+  "run_id": "izuku_midoriya_20260908_070717",
+  "topic": "discipline over motivation",
+  "niche": "izuku_midoriya",
+  "stages": {
+    "script": {
+      "text": "Motivation dies at sunrise; disciplined routine is the iron anchor that steadies every storm of desire and fuels relentless, purposeful progress.\n\nShow up daily, not heroically, because tiny habits systematically compound like compound lifts, building unshakable strength before any grand performance.\n\nVisualize worst\u2011case outcomes each morning; when the mind has already survived disaster, courage flows freely, and attention remains laser\u2011sharp, steady daily.\n\nOwn every failure, strip ego at the door, and let conviction inspire your team, turning setbacks into daily, purposeful collective momentum.\n\nTonight, write three micro\u2011commitments for tomorrow, track them ruthlessly, and watch discipline unlock the freedom you\u2019ve consistently been chasing.",
+      "chars": 755,
+      "words": 102,
+      "rag_sources": [
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md"
+      ]
+    },
+    "director": {
+      "verdict": "APPROVE",
+      "score": 7,
+      "hook": "A compelling hook about discipline over motivation",
+      "angle": "Focus on practical wisdom with character voice",
+      "images": [
+        "Scene 1: discipline over motivation",
+        "Scene 2: discipline over motivation context",
+        "Scene 3: discipline over motivation action"
+      ],
+      "style": "cinematic, dramatic lighting, 4k quality",
+      "title_suggestion": "How to Master Discipline Over Motivation | The Strategic Approach",
+      "tags": [
+        "discipline over motivation",
+        "motivation",
+        "self-improvement",
+        "wisdom"
+      ],
+      "reasoning": "Auto-approved due to LLM unavailability. Topic: discipline over motivation",
+      "changes_if_revise": ""
+    },
+    "mpt_video": {
+      "status": "success",
+      "task_id": "4cb79642-d784-4aef-8ac5-e1bc5b11b4fa",
+      "result": {
+        "videos": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/4cb79642-d784-4aef-8ac5-e1bc5b11b4fa/final-1.mp4"
+        ],
+        "combined_videos": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/4cb79642-d784-4aef-8ac5-e1bc5b11b4fa/combined-1.mp4"
+        ],
+        "script": "Motivation dies at sunrise; disciplined routine is the iron anchor that steadies every storm of desire and fuels relentless, purposeful progress.\n\nShow up daily, not heroically, because tiny habits systematically compound like compound lifts, building unshakable strength before any grand performance.\n\nVisualize worst\u2011case outcomes each morning; when the mind has already survived disaster, courage flows freely, and attention remains laser\u2011sharp, steady daily.\n\nOwn every failure, strip ego at the door, and let conviction inspire your team, turning setbacks into daily, purposeful collective momentum.\n\nTonight, write three micro\u2011commitments for tomorrow, track them ruthlessly, and watch discipline unlock the freedom you\u2019ve consistently been chasing.",
+        "terms": [
+          "discipline sunrise",
+          "discipline routine",
+          "discipline habit",
+          "discipline focus",
+          "discipline commitment"
+        ],
+        "audio_file": "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/4cb79642-d784-4aef-8ac5-e1bc5b11b4fa/audio.mp3",
+        "audio_duration": 48,
+        "subtitle_path": "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/4cb79642-d784-4aef-8ac5-e1bc5b11b4fa/subtitle.srt",
+        "materials": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-f08e857fbb0f55fe9d9fee7fd65c9c28.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-0826202b696f3859b7b1d049a06df99a.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-8df58921c8ccc04fc7f5029a9092aa2b.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-a0c4140c13909a2797d34cb123ada0e8.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-8211ca96ad8ddc163a00af07fa7f7a83.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-d1addc672ae586fc8b931fd198be4054.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-71245e17d8489142405e3d231361451f.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-c042d1440fd14ba2066e4453f2f5ab2e.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-55c8339a8751114f3070ea94dfbe84d3.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-705c9593a8a7525718534eaff0a5acd5.mp4"
+        ],
+        "cross_post_state": null,
+        "cross_post_results": null,
+        "cross_post_error": null,
+        "cross_post_owner": null,
+        "warnings": null
+      }
+    },
+    "video": {
+      "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_070717_mpt.mp4",
+      "mpt_task_id": "4cb79642-d784-4aef-8ac5-e1bc5b11b4fa",
+      "video_size": 17169765,
+      "duration": 48.3
+    },
+    "upload_meta": {
+      "youtube": {
+        "title": "How to Master Discipline Over Motivation | Strategy & Wisdom",
+        "description": "Deep insights on 'discipline over motivation' from a wealthy polymath perspective.\n\nTopics covered:\n- Key strategies for discipline over motivation\n- Real-world applications\n- Actionable advice you can use today\n\n#Motivation #SelfImprovement #Wisdom #disciplineovermotivation",
+        "tags": [
+          "discipline over motivation",
+          "motivation",
+          "self improvement",
+          "business",
+          "wisdom",
+          "success"
+        ],
+        "category": "Education",
+        "thumbnail_text": [
+          "Discipline",
+          "motivation"
+        ]
+      },
+      "social": {
+        "instagram": "You don't need luck for discipline over motivation. You need strategy. Here's what I've learned after decades of observation...",
+        "twitter": [
+          "The secret to mastering discipline over motivation? Most people overcomplicate it.",
+          "Here's the simple truth: discipline over motivation isn't about talent \u2014 it's about consistency.",
+          "Stop making excuses. Start executing. #Motivation"
+        ],
+        "tiktok": "POV: You finally understand discipline over motivation \ud83e\udde0\u26a1\ufe0f #motivation #wisdom #growth",
+        "linkedin": "After years of building businesses and studying human nature, here's my take on discipline over motivation."
+      },
+      "seo": {
+        "primary_keyword": "discipline over motivation",
+        "secondary_keywords": [
+          "discipline over motivation motivation",
+          "self improvement",
+          "wisdom"
+        ],
+        "best_time": "6-9 AM or 7-10 PM local time"
+      }
+    },
+    "captions_path": "output/captions/captions_20260908_071329.md",
+    "social_posts": "output/posts/posts_20260908_071331.md"
+  },
+  "status": "complete",
+  "video_path": "/home/sword/Documents/socio_business/pipeline/output/shorts/izuku_midoriya_20260908_070717_mpt.mp4"
+}

@@ -1,0 +1,137 @@
+{
+  "run_id": "izuku_midoriya_20260908_065215",
+  "topic": "the power of silence in negotiations",
+  "niche": "izuku_midoriya",
+  "stages": {
+    "script": {
+      "text": "Silence isn\u2019t empty; it\u2019s the loudest weapon you can wield when every opponent\u2019s System\u202f1 is screaming for answers you refuse to give in the tense moment of negotiation.\n\nBy remaining quiet, you force their brain into slow System\u202f2 processing, stripping away automatic bias and revealing the hidden calculus behind their demands that typically drive irrational concession.\n\nAfter planting a bold anchor, sit in silence; loss\u2011aversion amplifies their fear of conceding, making the silence itself a costly void they scramble to fill before negotiations conclude.\n\nGuarding attention like gold, silence becomes the tool that controls the options you present, ensuring every choice subtly guides them toward your preferred outcome without exposing your strategy.\n\nWhen you mirror their last three words, then pause, you label uncertainty; the silence signals confidence, prompting them to seek social proof from your composure right now immediately.\n\nSilence uncovers each person\u2019s thumbscrew; when they fill the void, they reveal what truly matters, allowing you to steer negotiations toward mutually beneficial leverage without appearing aggressive today.\n\nMaster timing by embracing silence; never rush, let moments stretch, because patience forces impatience onto the counterpart, who then overcompensates with concessions in pursuit of their perceived advantage.\n\nApply this silence protocol today: set an anchor, speak once, then count to ten before responding, watching how the other side collapses into your rhythm for lasting advantage.",
+      "chars": 1541,
+      "words": 226,
+      "rag_sources": [
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/psychology_of_influence.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/marketing_strategy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/48_laws_of_power.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/48_laws_of_power.md"
+      ]
+    },
+    "director": {
+      "verdict": "APPROVE",
+      "score": 7,
+      "hook": "A compelling hook about the power of silence in negotiations",
+      "angle": "Focus on practical wisdom with character voice",
+      "images": [
+        "Scene 1: the power of silence in negotiations",
+        "Scene 2: the power of silence in negotiations context",
+        "Scene 3: the power of silence in negotiations action"
+      ],
+      "style": "cinematic, dramatic lighting, 4k quality",
+      "title_suggestion": "How to Master The Power Of Silence In Negotiations | The Strategic Approach",
+      "tags": [
+        "the power of silence in negotiations",
+        "motivation",
+        "self-improvement",
+        "wisdom"
+      ],
+      "reasoning": "Auto-approved due to LLM unavailability. Topic: the power of silence in negotiations",
+      "changes_if_revise": ""
+    },
+    "mpt_video": {
+      "status": "success",
+      "task_id": "d7e8f888-6319-4a71-89e2-15b275592a70",
+      "result": {
+        "videos": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/d7e8f888-6319-4a71-89e2-15b275592a70/final-1.mp4"
+        ],
+        "combined_videos": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/d7e8f888-6319-4a71-89e2-15b275592a70/combined-1.mp4"
+        ],
+        "script": "Silence isn\u2019t empty; it\u2019s the loudest weapon you can wield when every opponent\u2019s System\u202f1 is screaming for answers you refuse to give in the tense moment of negotiation.\n\nBy remaining quiet, you force their brain into slow System\u202f2 processing, stripping away automatic bias and revealing the hidden calculus behind their demands that typically drive irrational concession.\n\nAfter planting a bold anchor, sit in silence; loss\u2011aversion amplifies their fear of conceding, making the silence itself a costly void they scramble to fill before negotiations conclude.\n\nGuarding attention like gold, silence becomes the tool that controls the options you present, ensuring every choice subtly guides them toward your preferred outcome without exposing your strategy.\n\nWhen you mirror their last three words, then pause, you label uncertainty; the silence signals confidence, prompting them to seek social proof from your composure right now immediately.\n\nSilence uncovers each person\u2019s thumbscrew; when they fill the void, they reveal what truly matters, allowing you to steer negotiations toward mutually beneficial leverage without appearing aggressive today.\n\nMaster timing by embracing silence; never rush, let moments stretch, because patience forces impatience onto the counterpart, who then overcompensates with concessions in pursuit of their perceived advantage.\n\nApply this silence protocol today: set an anchor, speak once, then count to ten before responding, watching how the other side collapses into your rhythm for lasting advantage.",
+        "terms": [
+          "silence negotiation",
+          "silence tactic",
+          "silence strategy",
+          "silence bargaining",
+          "silence body language"
+        ],
+        "audio_file": "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/d7e8f888-6319-4a71-89e2-15b275592a70/audio.mp3",
+        "audio_duration": 91,
+        "subtitle_path": "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/tasks/d7e8f888-6319-4a71-89e2-15b275592a70/subtitle.srt",
+        "materials": [
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-1a98f326a3dc7a0e93b6d1d0a5ca6c8a.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-a9c09a317da09f070853a0d314eca30c.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-6af76027a8bba31c16f23df5383f764e.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-3d1aeb6c12150b2fa35b7928dd530805.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-8b0256aaf4fb1af91da712f446cc9021.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-d4d613294110eeeb337eda198ec020a4.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-bdf5f062913881abbbefc9e43388e59a.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-cb4983fcaa30fba929de36c6f271058b.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-7fe94c04ea376fe90515e281ac21c77b.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-20a64e7296590b68ce7bf951f79495f0.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-6250b72dc76c67c0d9371661ecf3ffa7.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-8ebe6766da750068c0fdddb5433d348b.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-46856e8e851d42d9b857e07db31c87af.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-8e6ce19a339edf6b1a6e2cb4783d5811.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-91217729e12f7990ae7f65cf04667b70.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-2301feafad6e764ae4fb31e838053897.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-5d6dab4db5d8670f2fa8c1fadcb0fe38.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-12fa9d7ce299dbfa3525169cd884c3c0.mp4",
+          "/home/sword/Documents/socio_business/tools/MoneyPrinterTurbo/storage/cache_videos/vid-9c1e28859c57245650d07fa60ed4bd1b.mp4"
+        ],
+        "cross_post_state": null,
+        "cross_post_results": null,
+        "cross_post_error": null,
+        "cross_post_owner": null,
+        "warnings": null
+      }
+    },
+    "video": {
+      "video_path": "/home/sword/Documents/socio_business/pipeline/output/longs/izuku_midoriya_20260908_065215_mpt.mp4",
+      "mpt_task_id": "d7e8f888-6319-4a71-89e2-15b275592a70",
+      "video_size": 34137496,
+      "duration": 91.03
+    },
+    "upload_meta": {
+      "youtube": {
+        "title": "How to Master The Power Of Silence In Negotiations | Strategy & Wisdom",
+        "description": "Deep insights on 'the power of silence in negotiations' from a wealthy polymath perspective.\n\nTopics covered:\n- Key strategies for the power of silence in negotiations\n- Real-world applications\n- Actionable advice you can use today\n\n#Motivation #SelfImprovement #Wisdom #thepowerofsilenceinnegotiations",
+        "tags": [
+          "the power of silence in negotiations",
+          "motivation",
+          "self improvement",
+          "business",
+          "wisdom",
+          "success"
+        ],
+        "category": "Education",
+        "thumbnail_text": [
+          "The",
+          "negotiations"
+        ]
+      },
+      "social": {
+        "instagram": "You don't need luck for the power of silence in negotiations. You need strategy. Here's what I've learned after decades of observation...",
+        "twitter": [
+          "The secret to mastering the power of silence in negotiations? Most people overcomplicate it.",
+          "Here's the simple truth: the power of silence in negotiations isn't about talent \u2014 it's about consistency.",
+          "Stop making excuses. Start executing. #Motivation"
+        ],
+        "tiktok": "POV: You finally understand the power of silence in negotiations \ud83e\udde0\u26a1\ufe0f #motivation #wisdom #growth",
+        "linkedin": "After years of building businesses and studying human nature, here's my take on the power of silence in negotiations."
+      },
+      "seo": {
+        "primary_keyword": "the power of silence in negotiations",
+        "secondary_keywords": [
+          "the power of silence in negotiations motivation",
+          "self improvement",
+          "wisdom"
+        ],
+        "best_time": "6-9 AM or 7-10 PM local time"
+      }
+    },
+    "captions_path": "output/captions/captions_20260908_070721.md",
+    "social_posts": "output/posts/posts_20260908_070724.md"
+  },
+  "status": "complete",
+  "video_path": "/home/sword/Documents/socio_business/pipeline/output/longs/izuku_midoriya_20260908_065215_mpt.mp4"
+}

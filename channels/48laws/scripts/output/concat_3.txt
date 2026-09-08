@@ -1,0 +1,7 @@
+file '/home/sword/Documents/48laws-pipeline/scripts/images/lesson_03/scene_01.jpg'
+duration 5
+file '/home/sword/Documents/48laws-pipeline/scripts/images/lesson_03/scene_02.jpg'
+duration 5
+file '/home/sword/Documents/48laws-pipeline/scripts/images/lesson_03/scene_03.jpg'
+duration 5
+flush_packets 1

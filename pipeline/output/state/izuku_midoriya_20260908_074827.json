@@ -1,0 +1,41 @@
+{
+  "run_id": "izuku_midoriya_20260908_074827",
+  "topic": "stopping procrastination forever",
+  "niche": "izuku_midoriya",
+  "stages": {
+    "script": {
+      "text": "The topic of 'stopping procrastination forever' is one that most people underestimate.\n\nHere's what I've learned about 'stopping procrastination forever' that most don't know.\n\nLet me break this down in a way that actually sticks.\n\nThe truth is, 'stopping procrastination forever' isn't about what you think it is.\n\nInstead, it's about something much deeper.",
+      "chars": 358,
+      "words": 54,
+      "rag_sources": [
+        "fallback_template"
+      ]
+    },
+    "director": {
+      "verdict": "APPROVE",
+      "score": 7,
+      "hook": "A compelling hook about stopping procrastination forever",
+      "angle": "Focus on practical wisdom with character voice",
+      "images": [
+        "Scene 1: stopping procrastination forever",
+        "Scene 2: stopping procrastination forever context",
+        "Scene 3: stopping procrastination forever action"
+      ],
+      "style": "cinematic, dramatic lighting, 4k quality",
+      "title_suggestion": "How to Master Stopping Procrastination Forever | The Strategic Approach",
+      "tags": [
+        "stopping procrastination forever",
+        "motivation",
+        "self-improvement",
+        "wisdom"
+      ],
+      "reasoning": "Auto-approved due to LLM unavailability. Topic: stopping procrastination forever",
+      "changes_if_revise": ""
+    },
+    "mpt_video": {
+      "status": "error",
+      "error": "name 'json_line' is not defined"
+    }
+  },
+  "status": "mpt_failed"
+}

@@ -1,0 +1,32 @@
+# ─── Socio Business — Python Dependencies ────────────────────────────────────
+# Install: pip install -r requirements.txt
+# Single venv for the entire project.
+
+# ── CORE ─────────────────────────────────────────────────────────────────────
+python-dotenv>=1.0.0
+requests>=2.31.0
+openai>=1.50.0
+httpx>=0.27.0
+pyyaml>=6.0
+tqdm>=4.66.0
+Pillow>=10.0.0
+loguru>=0.7.0
+pydub>=0.25.0
+python-multipart>=0.0.9
+edge-tts>=7.0.0
+yt-dlp>=2024.0.0
+
+# ── LLM / RAG ────────────────────────────────────────────────────────────────
+langchain-core>=1.0.0
+langchain-openai>=0.2.0
+faiss-cpu>=1.8.0
+sentence-transformers>=3.0.0
+torch>=2.0.0  # installed with --index-url https://download.pytorch.org/whl/cpu
+
+# ── TOOLS (MoneyPrinterTurbo) ───────────────────────────────────────────────
+moviepy>=2.0.0
+faster-whisper>=1.0.0
+loguru>=0.7.0
+pydub>=0.25.0
+pyyaml>=6.0
+python-multipart>=0.0.9

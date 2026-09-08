@@ -1,0 +1,45 @@
+{
+  "run_id": "izuku_midoriya_20260908_073134",
+  "topic": "stopping procrastination forever",
+  "niche": "izuku_midoriya",
+  "stages": {
+    "script": {
+      "text": "Imagine your calendar empty, deadlines vanished\u2014procrastination crushed\u2014because you\u2019ve already visualized failure, prepared for disaster, and embraced unstoppable purpose.\n\nControl what you can: thoughts, actions, attention; discard distractions ruthlessly, treating focus as gold, because external demands are indifferent to true virtue.\n\nWhen fatigue whispers quit, remember you\u2019re only forty percent done\u2014draw strength from your mental cookie jar and stare brutally into the\n\nLove your fate: each obstacle transforms into fuel, turning setbacks into feedback loops that sharpen strategy, deepen wisdom, and expand entrepreneurial impact.\n\nRemember mortality; allocate every minute as if today were your last, then schedule one decisive task now\u2014execute it, and procrastination dies.",
+      "chars": 785,
+      "words": 104,
+      "rag_sources": [
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/training_philosophy.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/stoicism.md",
+        "/home/sword/Documents/socio_business/pipeline/niches/izuku_midoriya/rag/data/psychology_of_money.md"
+      ]
+    },
+    "director": {
+      "verdict": "APPROVE",
+      "score": 7,
+      "hook": "A compelling hook about stopping procrastination forever",
+      "angle": "Focus on practical wisdom with character voice",
+      "images": [
+        "Scene 1: stopping procrastination forever",
+        "Scene 2: stopping procrastination forever context",
+        "Scene 3: stopping procrastination forever action"
+      ],
+      "style": "cinematic, dramatic lighting, 4k quality",
+      "title_suggestion": "How to Master Stopping Procrastination Forever | The Strategic Approach",
+      "tags": [
+        "stopping procrastination forever",
+        "motivation",
+        "self-improvement",
+        "wisdom"
+      ],
+      "reasoning": "Auto-approved due to LLM unavailability. Topic: stopping procrastination forever",
+      "changes_if_revise": ""
+    },
+    "mpt_video": {
+      "status": "timeout",
+      "error": "MPT generation timed out (10min)"
+    }
+  },
+  "status": "mpt_failed"
+}

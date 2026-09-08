@@ -1,0 +1,89 @@
+# 🎬 YT-Flow Pipeline Log
+
+> **Start here to understand what's been done.**
+> Any AI working in this repo should read this file first.
+
+---
+
+## Videos Processed
+
+| Date | ID | Raw File | Final File | Duration | Resolution | Status | Platforms |
+|------|----|----------|------------|----------|------------|--------|-----------|
+| 2026-09-08 | VID-001 | `hf_20260908_131116_...mp4` | `video1_final.mp4` | 10s → 22s | 1280×720 | ✅ Edited, Ready | TBD |
+| 2026-09-08 | VID-002 | `Fitness_video_featuring_Deku_tra...mp4` | `video2_final.mp4` | 10s → 22s | 720×1280 (portrait) | ✅ Edited, Ready | TBD |
+
+---
+
+## Operations Log
+
+### 2026-09-08 — Initial Processing
+
+- **VID-001** (Business/Motivation):
+  - Extended via FFmpeg loop (stream copy) from 10.04s → 22s
+  - Subtitles: Business/motivation captions (no generic CTAs)
+  - Font: Arial Black, 32px, white with black outline, centered
+  - Output: `videos/edited/video1_final.mp4`
+
+- **VID-002** (Gym/Fitness):
+  - Extended via FFmpeg loop from 10.00s → 22s
+  - Subtitles: Gym/fitness motivation captions
+  - Portrait format (720×1280) — suitable for Shorts/Reels
+  - Output: `videos/edited/video2_final.mp4`
+
+---
+
+## Subtitle Style Guide
+
+| Element | Value |
+|---------|-------|
+| Font | Arial Black |
+| Size | 32px |
+| Color | White (`#FFFFFF`) |
+| Outline | Black, 3px |
+| Position | Center, 40px bottom margin |
+| Tone | **Business / Gym / Motivation only** |
+| ❌ Banned | "Subscribe", "Like", "Comment", generic CTAs |
+
+---
+
+## Face-Swap Models
+
+**Status: ✅ RECOVERED — Models found and copied**
+
+### Recovered Models
+| Model | Original Path | Size | Status |
+|-------|---------------|------|--------|
+| inswapper_128.onnx | `~/.insightface/models/` | 529 MB | ✅ Copied to `face-swap/models/` |
+| buffalo_l | `~/.insightface/models/` | 326 MB | ✅ Copied to `face-swap/models/` |
+| det_10g.onnx | `~/.insightface/models/buffalo_l/` | — | ✅ Included |
+| 1k3d68.onnx | `~/.insightface/models/buffalo_l/` | — | ✅ Included |
+| w600k_r50.onnx | `~/.insightface/models/buffalo_l/` | — | ✅ Included |
+| 2d106det.onnx | `~/.insightface/models/buffalo_l/` | — | ✅ Included |
+| genderage.onnx | `~/.insightface/models/buffalo_l/` | — | ✅ Included |
+
+---
+
+## Release Schedule
+
+| Video ID | Platform | Scheduled Time | Status |
+|----------|----------|----------------|--------|
+| VID-001 | YouTube | TBD | ⏳ Pending |
+| VID-002 | YouTube / TikTok | TBD | ⏳ Pending |
+
+---
+
+## Automation
+
+- Process: `scripts/process_video.py`
+- Scheduler: `scripts/schedule_release.py`
+- Release: `scripts/release_now.py`
+- Queue: `logs/release_queue.json`
+
+---
+
+## Notes
+
+- **Never delete `face-swap/models/`** — 855MB of hard-to-recover models.
+- Always extend videos to **≥20 seconds** before release.
+- Portrait videos (720×1280) → tag for Shorts/Reels.
+- Landscape (1280×720) → tag for standard YouTube.
