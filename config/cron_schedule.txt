@@ -1,0 +1,1 @@
+0 21 30 9 * python3 /home/sword/Documents/YT-Flow/scripts/release_now.py --id RELEASE-003  # youtube - mte_director_brain_release.mp4

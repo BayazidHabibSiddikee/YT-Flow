@@ -1,0 +1,90 @@
+{
+  "brain": [
+    {
+      "test": "quote-short",
+      "channel": "mte_mind",
+      "content_type": "motivational",
+      "aspect": "9:16",
+      "duration_s": 45.0,
+      "audio": "voice+bgm",
+      "scenes": 11,
+      "top_engine": "money_printer_turbo",
+      "ml_predict": "money_printer_turbo",
+      "ml_conf": 0.595,
+      "rule_violations": [],
+      "latency_s": 0.006
+    },
+    {
+      "test": "motivational",
+      "channel": "izuku_midoriya",
+      "content_type": "motivational",
+      "aspect": "9:16",
+      "duration_s": 45.0,
+      "audio": "voice+bgm",
+      "scenes": 11,
+      "top_engine": "money_printer_turbo",
+      "ml_predict": "money_printer_turbo",
+      "ml_conf": 0.609,
+      "rule_violations": [],
+      "latency_s": 0.006
+    },
+    {
+      "test": "explainer",
+      "channel": "mte_mind",
+      "content_type": "motivational",
+      "aspect": "9:16",
+      "duration_s": 45.0,
+      "audio": "voice+bgm",
+      "scenes": 11,
+      "top_engine": "money_printer_turbo",
+      "ml_predict": "money_printer_turbo",
+      "ml_conf": 0.656,
+      "rule_violations": [],
+      "latency_s": 0.006
+    },
+    {
+      "test": "doc-es",
+      "channel": "plastos_jiade",
+      "content_type": "explainer",
+      "aspect": "16:9",
+      "duration_s": 167.3,
+      "audio": "voice-only",
+      "scenes": 22,
+      "top_engine": "visual_resolver",
+      "ml_predict": "money_printer_turbo",
+      "ml_conf": 0.467,
+      "rule_violations": [],
+      "latency_s": 0.014
+    },
+    {
+      "test": "doc-full",
+      "channel": "plastos_jiade",
+      "content_type": "explainer",
+      "aspect": "16:9",
+      "duration_s": 238.1,
+      "audio": "voice-only",
+      "scenes": 31,
+      "top_engine": "visual_resolver",
+      "ml_predict": "money_printer_turbo",
+      "ml_conf": 0.418,
+      "rule_violations": [],
+      "latency_s": 0.021
+    },
+    {
+      "test": "manga",
+      "channel": "prince_rishad",
+      "content_type": "motivational",
+      "aspect": "9:16",
+      "duration_s": 45.0,
+      "audio": "voice+bgm",
+      "scenes": 11,
+      "top_engine": "money_printer_turbo",
+      "ml_predict": "money_printer_turbo",
+      "ml_conf": 0.656,
+      "rule_violations": [],
+      "latency_s": 0.014
+    }
+  ],
+  "jev_router": "returned visual_resolver (fallback without TYPESAFE_API_KEY)",
+  "static_router": "capability-match scorer, no learning, no rule enforcement on BGM/motion"
+}
