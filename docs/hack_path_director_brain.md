@@ -61,6 +61,12 @@ Render: `python3 tools/director/brain/release_mte.py`
 (60-90s tech explainer, 16:9 voice-only). Upload manual. Schedule 21:00
 Asia/Dhaka.
 
+Tracking lives in **YT-Flow** (`github.com/BayazidHabibSiddikee/YT-Flow`):
+`RELEASE-003` queued @ 2026-09-30T21:00 +06, cron installed
+(`0 21 30 9 * … release_now.py --id RELEASE-003`), video + this story +
+benchmark committed under `videos/edited/`, `docs/`, `logs/`. Future
+releases auto-track via `tools/director/brain/sync_ytflow.py`.
+
 ## 6. Reproduce
 
 ```bash
